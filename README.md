@@ -6,3 +6,5 @@
 * http://blog.caelum.com.br/revisitando-a-batalha-spring-x-java-ee-em-detalhes/
 
 * https://spring.io/guides/gs/rest-service/
+
+* https://martinfowler.com/articles/extract-data-rich-service.html
