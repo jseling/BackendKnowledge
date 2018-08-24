@@ -13,3 +13,6 @@
 * https://dev.to/codehakase/golang---getting-started-16c
 
 * https://hakaselogs.me/2017-12-05/react-native-vs-ionic
+* https://hakaselogs.me/2017-06-13/building-a-restful-api-nodejs
+
+* https://hakaselogs.me/2017-09-11/learning-react-day-1
