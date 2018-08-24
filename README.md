@@ -8,3 +8,5 @@
 * https://spring.io/guides/gs/rest-service/
 
 * https://martinfowler.com/articles/extract-data-rich-service.html
+
+* https://dev.to/codehakase/golang---getting-started-16c
