@@ -22,3 +22,6 @@
 
 * https://www.infoq.com/br/articles/microservices-intro
 * https://microservices.io/patterns/microservices.html
+
+
+* https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
