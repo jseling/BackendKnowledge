@@ -19,3 +19,6 @@
 
 
 * https://developer.okta.com/blog/
+
+* https://www.infoq.com/br/articles/microservices-intro
+* https://microservices.io/patterns/microservices.html
