@@ -6,7 +6,10 @@
 * http://blog.caelum.com.br/revisitando-a-batalha-spring-x-java-ee-em-detalhes/
 
 * https://spring.io/guides/gs/rest-service/
+* https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 * https://martinfowler.com/articles/extract-data-rich-service.html
 
 * https://dev.to/codehakase/golang---getting-started-16c
+
+* https://hakaselogs.me/2017-12-05/react-native-vs-ionic
