@@ -5,6 +5,7 @@
 * http://blog.algaworks.com/spring-boot/
 * http://blog.caelum.com.br/revisitando-a-batalha-spring-x-java-ee-em-detalhes/
 
+* https://spring.io/guides/gs/spring-boot/
 * https://spring.io/guides/gs/rest-service/
 * https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
