@@ -37,3 +37,5 @@
 * http://blog.caelum.com.br/rest-principios-e-boas-praticas/
 * http://blog.caelum.com.br/nao-faca-testes-faca-specs/
 * http://tdd.caelum.com.br/
+
+* https://martinfowler.com/articles/microservices.html
