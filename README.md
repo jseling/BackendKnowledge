@@ -51,5 +51,7 @@
 * http://www.luiztools.com.br/post/arquitetura-de-micro-servicos-em-node-js-mongodb-3/
 * https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
 
+* https://imasters.com.br/back-end/6-melhores-praticas-para-arquiteturas-baseadas-em-microservices
+
 
 
