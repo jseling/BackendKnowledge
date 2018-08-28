@@ -41,3 +41,15 @@
 * https://martinfowler.com/articles/microservices.html
 * http://www.pedromendes.com.br/2016/01/02/microservicos/ (TRADUÇÃO)
 * https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell (RESUMO)
+
+* https://www.infoq.com/br/presentations/gerenciamento-de-dados-com-micro-servicos-e-a-experiencia-do-ifood
+
+
+* http://www.luiztools.com.br/post/introducao-arquitetura-de-micro-servicos/
+* https://imasters.com.br/desenvolvimento/arquitetura-de-micro-servicos-em-node-js-mongodb
+* https://imasters.com.br/devsecops/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-02
+* http://www.luiztools.com.br/post/arquitetura-de-micro-servicos-em-node-js-mongodb-3/
+* https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
+
+
+
