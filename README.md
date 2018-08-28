@@ -52,6 +52,7 @@
 * https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
 
 * https://imasters.com.br/back-end/6-melhores-praticas-para-arquiteturas-baseadas-em-microservices
+* https://pragmaticcoders.com/blog/microservice%E2%80%91architecture-patterns/
 
 
 
