@@ -39,3 +39,4 @@
 * http://tdd.caelum.com.br/
 
 * https://martinfowler.com/articles/microservices.html
+* http://www.pedromendes.com.br/2016/01/02/microservicos/ (TRADUÇÃO)
