@@ -10,6 +10,7 @@
 * https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 * https://martinfowler.com/articles/extract-data-rich-service.html
+* https://herbertograca.com/2017/01/26/microservices-architecture/
 
 * https://dev.to/codehakase/golang---getting-started-16c
 
