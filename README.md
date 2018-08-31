@@ -5,6 +5,8 @@
 * http://blog.algaworks.com/spring-boot/
 * http://blog.caelum.com.br/revisitando-a-batalha-spring-x-java-ee-em-detalhes/
 
+* https://www.redhat.com/cms/managed-files/mi-path-to-cloud-native-apps-ebook-f12255cs-201805-en_0.pdf
+
 * https://spring.io/guides/gs/spring-boot/
 * https://spring.io/guides/gs/rest-service/
 * https://spring.io/guides/tutorials/react-and-spring-data-rest/
