@@ -46,6 +46,7 @@
 * https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell (RESUMO)
 
 * https://martinfowler.com/articles/microservice-trade-offs.html
+* https://medium.com/systems-architectures/walking-the-microservices-path-towards-loose-coupling-few-pitfalls-4067bf5e497a
 
 * https://www.infoq.com/br/presentations/gerenciamento-de-dados-com-micro-servicos-e-a-experiencia-do-ifood
 
