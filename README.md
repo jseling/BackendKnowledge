@@ -45,6 +45,8 @@
 * http://www.pedromendes.com.br/2016/01/02/microservicos/ (TRADUÇÃO)
 * https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell (RESUMO)
 
+* https://martinfowler.com/articles/microservice-trade-offs.html
+
 * https://www.infoq.com/br/presentations/gerenciamento-de-dados-com-micro-servicos-e-a-experiencia-do-ifood
 
 * http://www.luiztools.com.br/post/introducao-arquitetura-de-micro-servicos/
