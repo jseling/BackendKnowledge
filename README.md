@@ -47,7 +47,6 @@
 
 * https://www.infoq.com/br/presentations/gerenciamento-de-dados-com-micro-servicos-e-a-experiencia-do-ifood
 
-
 * http://www.luiztools.com.br/post/introducao-arquitetura-de-micro-servicos/
 * https://imasters.com.br/desenvolvimento/arquitetura-de-micro-servicos-em-node-js-mongodb
 * https://imasters.com.br/devsecops/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-02
@@ -56,6 +55,12 @@
 
 * https://imasters.com.br/back-end/6-melhores-praticas-para-arquiteturas-baseadas-em-microservices
 * https://pragmaticcoders.com/blog/microservice%E2%80%91architecture-patterns/
+
+TRANSAÇÕES
+* https://www.baeldung.com/transactions-across-microservices
+* https://stackoverflow.com/questions/30213456/transactions-across-rest-microservices
+* http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
+* https://softwareengineering.stackexchange.com/questions/290917/what-is-the-most-accepted-transaction-strategy-for-microservices
 
 
 
