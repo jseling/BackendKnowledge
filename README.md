@@ -38,6 +38,7 @@
 * https://www.programmableweb.com/news/what-programming-language-most-popular-apis/2013/06/03
 
 * https://codingsans.com/blog/microservice-architecture-best-practices
+* https://microservices.io/patterns/microservices.html
 
 
 * http://blog.caelum.com.br/rest-principios-e-boas-praticas/
