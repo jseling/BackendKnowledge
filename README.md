@@ -69,5 +69,8 @@ TRANSAÇÕES
 * http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 * https://softwareengineering.stackexchange.com/questions/290917/what-is-the-most-accepted-transaction-strategy-for-microservices
 
+MENSAGERIA
+* http://blog.cedrotech.com/rabbitmq-o-que-e-e-como-utilizar/
+
 
 
