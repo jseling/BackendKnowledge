@@ -70,7 +70,10 @@ TRANSAÇÕES
 * https://softwareengineering.stackexchange.com/questions/290917/what-is-the-most-accepted-transaction-strategy-for-microservices
 
 MENSAGERIA
+* https://www.concrete.com.br/2012/01/23/introducao-a-mensageria/
+* https://www.concrete.com.br/2012/01/23/apoio-introducao-a-mensageria/
+* https://www.concrete.com.br/2012/01/26/rabbitmq-conceitos-basicos/
 * http://blog.cedrotech.com/rabbitmq-o-que-e-e-como-utilizar/
-
+* https://www.enterpriseintegrationpatterns.com/patterns/messaging/
 
 
