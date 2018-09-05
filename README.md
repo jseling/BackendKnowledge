@@ -24,6 +24,7 @@
 
 * https://hakaselogs.me/2017-09-11/learning-react-day-1
 
+* http://philcalcado.com/2017/08/03/pattern_service_mesh.html
 
 * https://developer.okta.com/blog/
 
