@@ -40,6 +40,7 @@
 * https://codingsans.com/blog/microservice-architecture-best-practices
 * https://microservices.io/patterns/microservices.html
 
+* https://redmonk.com/jgovernor/2017/07/21/why-now-why-microservices-why-not-soa/
 
 * http://blog.caelum.com.br/rest-principios-e-boas-praticas/
 * http://blog.caelum.com.br/nao-faca-testes-faca-specs/
