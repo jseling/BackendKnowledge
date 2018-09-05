@@ -10,6 +10,8 @@
 
 * https://www.redhat.com/cms/managed-files/mi-path-to-cloud-native-apps-ebook-f12255cs-201805-en_0.pdf
 
+* https://bittencode-wordpress-com.cdn.ampproject.org/c/s/bittencode.wordpress.com/2016/11/23/using-microservices-architecture-as-api-enablement-strategy/amp/
+
 * https://spring.io/guides/gs/spring-boot/
 * https://spring.io/guides/gs/rest-service/
 * https://spring.io/guides/tutorials/react-and-spring-data-rest/
