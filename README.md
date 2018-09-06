@@ -57,6 +57,9 @@
 ## C++
 - https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
 
+## .NET
+- https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
+
 ## Frontend
 - https://hakaselogs.me/2017-12-05/react-native-vs-ionic
 - https://hakaselogs.me/2017-09-11/learning-react-day-1
