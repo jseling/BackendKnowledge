@@ -51,6 +51,7 @@
 - https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 ## Go
+- https://go-tour-br.appspot.com/list
 - https://dev.to/codehakase/golang---getting-started-16c
 
 ## C++
