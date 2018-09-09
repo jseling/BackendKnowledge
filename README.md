@@ -2,7 +2,8 @@
 
 ## Blogs & sites sources
 - https://developer.okta.com/blog/
-- https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1
+- [JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
+- [ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
 
 ## Concepts
 - https://martinfowler.com/articles/microservices.html
