@@ -67,6 +67,7 @@
 - https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
 
 ## .NET
+- http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/
 - https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
 
 ## Frontend
