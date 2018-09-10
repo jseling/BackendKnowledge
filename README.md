@@ -70,6 +70,7 @@
 - https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
 
 ## Frontend
+- https://tylermcginnis.com/react-interview-questions/
 - https://hakaselogs.me/2017-12-05/react-native-vs-ionic
 - https://hakaselogs.me/2017-09-11/learning-react-day-1
 
