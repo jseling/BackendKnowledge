@@ -47,6 +47,7 @@
 - https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
 
 ## Java Spring Boot
+- [Minicurso SpringBoot](http://danielschmitz.com.br/curso-spring-boot/)
 - http://blog.algaworks.com/spring-boot/
 - https://spring.io/guides/gs/spring-boot/
 - https://spring.io/guides/gs/rest-service/
