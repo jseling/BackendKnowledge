@@ -50,6 +50,8 @@
 
 ## Java Spring Boot
 - [Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
+- [API REST - SPRING BOOT](https://www.youtube.com/playlist?list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ)
+
 - [Minicurso SpringBoot](http://danielschmitz.com.br/curso-spring-boot/)
 - http://blog.algaworks.com/spring-boot/
 - https://spring.io/guides/gs/spring-boot/
@@ -57,6 +59,7 @@
 - https://spring.io/guides/tutorials/react-and-spring-data-rest/
 
 ## Go
+- [Curso Introdução](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI)
 - https://go-tour-br.appspot.com/list
 - https://dev.to/codehakase/golang---getting-started-16c
 
