@@ -39,6 +39,7 @@
 - https://www.programmableweb.com/news/what-programming-language-most-popular-apis/2013/06/03
 
 ## Node.js
+- [Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
 - https://www.w3schools.com/nodejs/nodejs_intro.asp
 - https://hakaselogs.me/2017-06-13/building-a-restful-api-nodejs
 - https://imasters.com.br/desenvolvimento/arquitetura-de-micro-servicos-em-node-js-mongodb
