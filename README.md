@@ -38,6 +38,9 @@
 - https://www.theserverside.com/feature/The-right-language-for-microservice-orchestration-and-development
 - https://www.programmableweb.com/news/what-programming-language-most-popular-apis/2013/06/03
 
+## JavaScript
+- https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
+
 ## Node.js
 - [Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
 - [Curso: Criando APIs com NodeJs](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn)
@@ -47,6 +50,7 @@
 - https://imasters.com.br/devsecops/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-02
 - http://www.luiztools.com.br/post/arquitetura-de-micro-servicos-em-node-js-mongodb-3/
 - https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
+
 
 ## Java Spring Boot
 - [Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
@@ -62,6 +66,9 @@
 - [Curso Introdução](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI)
 - https://go-tour-br.appspot.com/list
 - https://dev.to/codehakase/golang---getting-started-16c
+- https://hakaselogs.me/2017-06-23/rest-api-with-golang
+- https://hakaselogs.me/2017-09-02/how-i-got-started-with-golang
+- https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react
 
 ## C++
 - https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
@@ -75,6 +82,9 @@
 - https://tylermcginnis.com/react-interview-questions/
 - https://hakaselogs.me/2017-12-05/react-native-vs-ionic
 - https://hakaselogs.me/2017-09-11/learning-react-day-1
+- https://hakaselogs.me/2017-09-12/learning-react-day-2
+- https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6
+- https://dev.to/liveedutv/3-best-practices-for-working-with-react-components-3j44
 
 ## Transações
 - https://www.baeldung.com/transactions-across-microservices
