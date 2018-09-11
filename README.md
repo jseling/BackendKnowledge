@@ -51,6 +51,8 @@
 - http://www.luiztools.com.br/post/arquitetura-de-micro-servicos-em-node-js-mongodb-3/
 - https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
 
+## Redis
+- https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
 
 ## Java Spring Boot
 - [Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
