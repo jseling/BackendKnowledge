@@ -88,6 +88,7 @@
 - https://hakaselogs.me/2017-09-12/learning-react-day-2
 - https://dev.to/aspittel/a-complete-beginners-guide-to-react-2cl6
 - https://dev.to/liveedutv/3-best-practices-for-working-with-react-components-3j44
+- http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react
 
 ## Transações
 - https://www.baeldung.com/transactions-across-microservices
