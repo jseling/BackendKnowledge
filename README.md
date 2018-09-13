@@ -83,6 +83,14 @@
 - http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/
 - https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
 
+## Docker
+- http://techfree.com.br/2016/03/porque-usar-docker/
+- http://techfree.com.br/2015/10/entendendo-o-docker-parte-1/
+- http://techfree.com.br/2015/11/container-vs-maquina-virtual/
+- http://techfree.com.br/2016/03/como-usar-docker-sem-gnulinux/
+- http://techfree.com.br/2016/11/lancamento-da-versao-estavel-do-livro-docker-para-desenvolvedores/
+- https://walde.co/2016/03/04/rodando-cakephp-com-docker-compose-nginx-e-mysql/
+
 ## Frontend
 - https://tylermcginnis.com/react-interview-questions/
 - https://hakaselogs.me/2017-12-05/react-native-vs-ionic
