@@ -52,6 +52,7 @@
 - http://www.luiztools.com.br/post/arquitetura-de-micro-servicos-em-node-js-mongodb-3/
 - https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
 - https://walde.co/2016/11/27/node-js-v8-single-thread-e-o-que-e-esse-event-loop-afinal/
+- https://stackoverflow.com/questions/17959663/why-is-node-js-single-threaded
 
 ## Redis
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
