@@ -108,6 +108,7 @@
 - https://stackoverflow.com/questions/30213456/transactions-across-rest-microservices
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 - https://softwareengineering.stackexchange.com/questions/290917/what-is-the-most-accepted-transaction-strategy-for-microservices
+- https://yos.io/2017/10/30/distributed-sagas/
 
 ## Mensageria
 - https://www.concrete.com.br/2012/01/23/introducao-a-mensageria/
