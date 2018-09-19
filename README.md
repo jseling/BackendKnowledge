@@ -2,8 +2,8 @@
 
 ## Blogs & sites sources
 - https://developer.okta.com/blog/
-- [JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
-- [ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
+- :clapper:[JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
+- :clapper:[ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
 - [Docker - Qual a melhor maneira para se trabalhar](https://github.com/backend-br/forum/issues/53)
 
 ## Concepts
@@ -49,8 +49,8 @@
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
 
 ## Node.js
-- [Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
-- [Curso: Criando APIs com NodeJs](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn)
+- :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
+- :clapper:[Curso: Criando APIs com NodeJs](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn)
 - https://www.w3schools.com/nodejs/nodejs_intro.asp
 - https://hakaselogs.me/2017-06-13/building-a-restful-api-nodejs
 - https://imasters.com.br/desenvolvimento/arquitetura-de-micro-servicos-em-node-js-mongodb
