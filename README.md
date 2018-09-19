@@ -64,9 +64,9 @@
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
 
 ## Java Spring Boot
-- [<Youtube> Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
-- [<Youtube> API REST - SPRING BOOT](https://www.youtube.com/playlist?list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ)
-- [<Youtube> SPRING FRAMEWORK](https://www.youtube.com/playlist?list=PLZTjHbp2Y783-vNLT6v9jmRR4MPZZfhJA)
+- [<Youtube> Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1):clapper:
+- [API REST - SPRING BOOT](https://www.youtube.com/playlist?list=PL8iIphQOyG-D2FP9wkg12AavzmVRWEcnJ):clapper:
+- [SPRING FRAMEWORK](https://www.youtube.com/playlist?list=PLZTjHbp2Y783-vNLT6v9jmRR4MPZZfhJA):clapper:
 - [Minicurso SpringBoot](http://danielschmitz.com.br/curso-spring-boot/)
 - http://blog.algaworks.com/spring-boot/
 - https://spring.io/guides/gs/spring-boot/
