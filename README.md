@@ -37,6 +37,7 @@
 - https://walde.co/2015/09/28/o-caminho-para-o-restful-parte-2-versionamento-status-code-e-operacoes-de-crud/
 - https://walde.co/2015/10/12/o-caminho-para-o-restful-parte-3-codigos-query-parameters-e-hateoas/
 - https://www.infoq.com/minibooks/emag-03-2010-rest?utm_source=minibooks_about_WebAPI&utm_medium=link&utm_campaign=WebAPI
+- [REST X CRUD](https://www.infoq.com/news/2009/07/CRUDREST)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
