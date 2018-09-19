@@ -32,6 +32,7 @@
 - http://www.luiztools.com.br/post/introducao-arquitetura-de-micro-servicos/
 
 ### REST
+- [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - http://blog.caelum.com.br/rest-principios-e-boas-praticas/
 - https://walde.co/2015/09/27/o-caminho-para-o-restful-parte-1-conceito-e-introducao/
 - https://walde.co/2015/09/28/o-caminho-para-o-restful-parte-2-versionamento-status-code-e-operacoes-de-crud/
