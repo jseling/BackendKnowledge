@@ -69,6 +69,7 @@
 - https://spring.io/guides/gs/spring-boot/
 - https://spring.io/guides/gs/rest-service/
 - https://spring.io/guides/tutorials/react-and-spring-data-rest/
+- https://www.infoq.com/minibooks/spring-boot-building-api-backend
 
 ## Go
 - [Curso Introdução](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI)
