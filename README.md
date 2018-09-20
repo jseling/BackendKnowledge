@@ -39,6 +39,7 @@
 - https://walde.co/2015/10/12/o-caminho-para-o-restful-parte-3-codigos-query-parameters-e-hateoas/
 - https://www.infoq.com/minibooks/emag-03-2010-rest?utm_source=minibooks_about_WebAPI&utm_medium=link&utm_campaign=WebAPI
 - [REST X CRUD](https://www.infoq.com/news/2009/07/CRUDREST)
+- [RESTful API Best Practices and Common Pitfalls](https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
@@ -59,6 +60,7 @@
 - https://imasters.com.br/apis-microsservicos/arquitetura-de-micro-servicos-em-node-js-mongodb-parte-04
 - https://walde.co/2016/11/27/node-js-v8-single-thread-e-o-que-e-esse-event-loop-afinal/
 - https://stackoverflow.com/questions/17959663/why-is-node-js-single-threaded
+- [Build a Node.js API in Under 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
 
 ## Redis
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
@@ -83,7 +85,9 @@
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react
 
 ## C++
-- https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898
+- [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
+- [Modern C++ micro-serivce + REST API, Part II](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)
+- [https://blog.sourcerer.io/building-a-website-with-c-db942c801aee](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
 
 ## .NET
 - https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01
@@ -120,5 +124,10 @@
 - https://www.concrete.com.br/2012/01/26/rabbitmq-conceitos-basicos/
 - http://blog.cedrotech.com/rabbitmq-o-que-e-e-como-utilizar/
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+
+## GraphQL
+- [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
+- [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
+- [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 
 
