@@ -6,6 +6,13 @@
 - :clapper:[ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
 - [Docker - Qual a melhor maneira para se trabalhar](https://github.com/backend-br/forum/issues/53)
 
+## Free Ebooks
+- [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices?hsCtaTracking=06b99bf1-b74a-4226-884d-6a0caaaac97c%7C33f166b2-6c4b-40fb-bc7d-63c523f91fea)
+- [Docker for Windows, Linux and Mac](https://resources.codeship.com/ebooks/docker-windows-linux-mac)
+- [Understanding the Docker Ecosystem](https://resources.codeship.com/ebooks/docker-ecosystem?hsCtaTracking=7cc4c3c0-247b-40c2-8f1d-01f387a44c81%7Ceb8e001b-f02d-489e-aa0e-2f2a237d196f)
+- [Building Minimal Docker Images](https://resources.codeship.com/ebooks/minimal-docker-images)
+- [Refactoring a Monolithic Codebase](https://resources.codeship.com/ebooks/refactoring-monoliths)
+
 ## Concepts
 - https://martinfowler.com/articles/microservices.html
 - http://www.pedromendes.com.br/2016/01/02/microservicos/ (TRADUÇÃO)
@@ -40,6 +47,7 @@
 - https://www.infoq.com/minibooks/emag-03-2010-rest?utm_source=minibooks_about_WebAPI&utm_medium=link&utm_campaign=WebAPI
 - [REST X CRUD](https://www.infoq.com/news/2009/07/CRUDREST)
 - [RESTful API Best Practices and Common Pitfalls](https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5)
+- [The Future of APIs](https://blog.goodapi.co/future-of-apis-c84a76bc9c85)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
