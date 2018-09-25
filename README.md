@@ -37,6 +37,7 @@
 - https://redmonk.com/jgovernor/2017/07/21/why-now-why-microservices-why-not-soa/
 - https://www.infoq.com/br/presentations/gerenciamento-de-dados-com-micro-servicos-e-a-experiencia-do-ifood
 - http://www.luiztools.com.br/post/introducao-arquitetura-de-micro-servicos/
+- https://community.embarcadero.com/blogs/entry/build-flexible-and-robust-apps-with-a-multi-tier-architecture
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
