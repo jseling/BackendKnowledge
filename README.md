@@ -120,6 +120,7 @@
 - https://dev.to/liveedutv/3-best-practices-for-working-with-react-components-3j44
 - http://blog.matheuscastiglioni.com.br/referenciando-componentes-no-react
 - https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
+- [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 
 ## Transações
 - https://www.baeldung.com/transactions-across-microservices
