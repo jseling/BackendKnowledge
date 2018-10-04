@@ -1,6 +1,7 @@
 # BackendKnowledge
 
 ## Blogs & sites sources
+- https://blog.gojekengineering.com/
 - https://developer.okta.com/blog/
 - :clapper:[JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
 - :clapper:[ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
@@ -70,6 +71,7 @@
 - https://walde.co/2016/11/27/node-js-v8-single-thread-e-o-que-e-esse-event-loop-afinal/
 - https://stackoverflow.com/questions/17959663/why-is-node-js-single-threaded
 - [Build a Node.js API in Under 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
+- [Why I Use NodeJS for Basically Everything I Do.](https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc)
 
 ## Redis
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
