@@ -107,6 +107,8 @@
 - [Artigos C# Macoratti](http://www.macoratti.net/pageview.aspx?catid=18)
 - [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - I](http://www.macoratti.net/17/04/aspcore_webapi1.htm)
 - [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - II](http://www.macoratti.net/17/04/aspcore_webapi2.htm)
+- [ASP.NET Web API Tutorials](http://www.tutorialsteacher.com/webapi/web-api-tutorials)
+- [C# Tutorials](http://www.tutorialsteacher.com/csharp/csharp-tutorials)
 
 ## Docker
 - http://techfree.com.br/2016/03/porque-usar-docker/
