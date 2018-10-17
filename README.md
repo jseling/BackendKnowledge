@@ -101,9 +101,9 @@
 - [https://blog.sourcerer.io/building-a-website-with-c-db942c801aee](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
 
 ## .NET
-- https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01
-- http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/
-- https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
+- [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
+- [Criando um serviço RESTful com Web API em C#](http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/)
+- [Build a Simple CRUD App with ASP.NET Core and Vue](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore)
 - [Artigos C# Macoratti](http://www.macoratti.net/pageview.aspx?catid=18)
 - [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - I](http://www.macoratti.net/17/04/aspcore_webapi1.htm)
 - [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - II](http://www.macoratti.net/17/04/aspcore_webapi2.htm)
@@ -111,6 +111,7 @@
 - [C# Tutorials](http://www.tutorialsteacher.com/csharp/csharp-tutorials)
 - [ASP.NET Core Tutorial](http://www.tutorialsteacher.com/core)
 - [Introdução ao ASP.NET Web API](https://www.devmedia.com.br/introducao-ao-asp-net-web-api/25180)
+- [Curso DevMedia - $$$](https://www.devmedia.com.br/guia/programador-net/37814)
 
 ## Docker
 - http://techfree.com.br/2016/03/porque-usar-docker/
