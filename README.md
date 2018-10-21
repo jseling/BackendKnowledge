@@ -112,6 +112,7 @@
 - [ASP.NET Core Tutorial](http://www.tutorialsteacher.com/core)
 - [Introdução ao ASP.NET Web API](https://www.devmedia.com.br/introducao-ao-asp-net-web-api/25180)
 - [Curso DevMedia - $$$](https://www.devmedia.com.br/guia/programador-net/37814)
+- [Padrões de Web API: Parte 1 Documentação, Requests, Responses](https://medium.com/@kenerrydeveloper/padr%C3%B5es-de-web-api-parte-1-documenta%C3%A7%C3%A3o-requests-responses-503491d3c55c?fbclid=IwAR2ULtIy2i-EVUpcnjtVw8Qp5yJe1B1WFus03XHOqk4JcgbGdTmeSilvs9Y)
 
 ## Docker
 - http://techfree.com.br/2016/03/porque-usar-docker/
