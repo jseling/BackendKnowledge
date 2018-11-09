@@ -21,6 +21,7 @@
 - https://martinfowler.com/articles/extract-data-rich-service.html
 - [How to break a Monolith into Microservices - What to decouple and when](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 - https://herbertograca.com/2017/01/26/microservices-architecture/
+- [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 - https://www.infoq.com/br/articles/microservices-intro
 - https://microservices.io/patterns/microservices.html
 - https://martinfowler.com/articles/microservice-trade-offs.html
