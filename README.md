@@ -19,6 +19,7 @@
 - http://www.pedromendes.com.br/2016/01/02/microservicos/ (TRADUÇÃO)
 - https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell (RESUMO)
 - https://martinfowler.com/articles/extract-data-rich-service.html
+- [How to break a Monolith into Microservices - What to decouple and when](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 - https://herbertograca.com/2017/01/26/microservices-architecture/
 - https://www.infoq.com/br/articles/microservices-intro
 - https://microservices.io/patterns/microservices.html
