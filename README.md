@@ -58,6 +58,20 @@
 - https://www.theserverside.com/feature/The-right-language-for-microservice-orchestration-and-development
 - https://www.programmableweb.com/news/what-programming-language-most-popular-apis/2013/06/03
 
+## .NET
+- [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
+- [Criando um serviço RESTful com Web API em C#](http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/)
+- [Build a Simple CRUD App with ASP.NET Core and Vue](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore)
+- [Artigos C# Macoratti](http://www.macoratti.net/pageview.aspx?catid=18)
+- [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - I](http://www.macoratti.net/17/04/aspcore_webapi1.htm)
+- [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - II](http://www.macoratti.net/17/04/aspcore_webapi2.htm)
+- [ASP.NET Web API Tutorials](http://www.tutorialsteacher.com/webapi/web-api-tutorials)
+- [C# Tutorials](http://www.tutorialsteacher.com/csharp/csharp-tutorials)
+- [ASP.NET Core Tutorial](http://www.tutorialsteacher.com/core)
+- [Introdução ao ASP.NET Web API](https://www.devmedia.com.br/introducao-ao-asp-net-web-api/25180)
+- [Curso DevMedia - $$$](https://www.devmedia.com.br/guia/programador-net/37814)
+- [Padrões de Web API: Parte 1 Documentação, Requests, Responses](https://medium.com/@kenerrydeveloper/padr%C3%B5es-de-web-api-parte-1-documenta%C3%A7%C3%A3o-requests-responses-503491d3c55c?fbclid=IwAR2ULtIy2i-EVUpcnjtVw8Qp5yJe1B1WFus03XHOqk4JcgbGdTmeSilvs9Y)
+
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
 
@@ -101,20 +115,6 @@
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
 - [Modern C++ micro-serivce + REST API, Part II](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)
 - [https://blog.sourcerer.io/building-a-website-with-c-db942c801aee](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
-
-## .NET
-- [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
-- [Criando um serviço RESTful com Web API em C#](http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/)
-- [Build a Simple CRUD App with ASP.NET Core and Vue](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore)
-- [Artigos C# Macoratti](http://www.macoratti.net/pageview.aspx?catid=18)
-- [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - I](http://www.macoratti.net/17/04/aspcore_webapi1.htm)
-- [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - II](http://www.macoratti.net/17/04/aspcore_webapi2.htm)
-- [ASP.NET Web API Tutorials](http://www.tutorialsteacher.com/webapi/web-api-tutorials)
-- [C# Tutorials](http://www.tutorialsteacher.com/csharp/csharp-tutorials)
-- [ASP.NET Core Tutorial](http://www.tutorialsteacher.com/core)
-- [Introdução ao ASP.NET Web API](https://www.devmedia.com.br/introducao-ao-asp-net-web-api/25180)
-- [Curso DevMedia - $$$](https://www.devmedia.com.br/guia/programador-net/37814)
-- [Padrões de Web API: Parte 1 Documentação, Requests, Responses](https://medium.com/@kenerrydeveloper/padr%C3%B5es-de-web-api-parte-1-documenta%C3%A7%C3%A3o-requests-responses-503491d3c55c?fbclid=IwAR2ULtIy2i-EVUpcnjtVw8Qp5yJe1B1WFus03XHOqk4JcgbGdTmeSilvs9Y)
 
 ## Docker
 - http://techfree.com.br/2016/03/porque-usar-docker/
