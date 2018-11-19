@@ -14,6 +14,8 @@
 - [Building Minimal Docker Images](https://resources.codeship.com/ebooks/minimal-docker-images)
 - [Refactoring a Monolithic Codebase](https://resources.codeship.com/ebooks/refactoring-monoliths)
 
+- http://www.csharpcourse.com/
+
 ## Concepts
 - https://martinfowler.com/articles/microservices.html
 - http://www.pedromendes.com.br/2016/01/02/microservicos/ (TRADUÇÃO)
