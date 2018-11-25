@@ -78,6 +78,7 @@
 - [Introdução ao ASP.NET Web API](https://www.devmedia.com.br/introducao-ao-asp-net-web-api/25180)
 - [Curso DevMedia - $$$](https://www.devmedia.com.br/guia/programador-net/37814)
 - [Padrões de Web API: Parte 1 Documentação, Requests, Responses](https://medium.com/@kenerrydeveloper/padr%C3%B5es-de-web-api-parte-1-documenta%C3%A7%C3%A3o-requests-responses-503491d3c55c?fbclid=IwAR2ULtIy2i-EVUpcnjtVw8Qp5yJe1B1WFus03XHOqk4JcgbGdTmeSilvs9Y)
+- https://medium.com/@sergioprates/criando-uma-api-streaming-com-net-core-b2eeaab0dfac?fbclid=IwAR1wnfVmGjlMxPv0fu2D57Hc1QQklI5bH8lnHPJtCaJ2CKh-yd81y8LZjt8
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
