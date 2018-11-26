@@ -65,6 +65,8 @@
 - [Criando um microsserviço de CRUD simples controlado por dados](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - :book::star:[Microsserviços .NET: arquitetura para aplicativos .NET em contêineres](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/)
 
+- https://docs.microsoft.com/pt-br/dotnet/core/docker/intro-net-docker
+
 - [Bem-vindo ao .NET - Docs Microsoft](https://docs.microsoft.com/pt-br/dotnet/welcome)
 - [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
 - [Criando um serviço RESTful com Web API em C#](http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/)
