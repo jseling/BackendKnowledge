@@ -44,6 +44,8 @@
 - http://www.luiztools.com.br/post/introducao-arquitetura-de-micro-servicos/
 - https://community.embarcadero.com/blogs/entry/build-flexible-and-robust-apps-with-a-multi-tier-architecture
 
+- https://dzone.com/articles/api-vs-microservices-a-microservice-is-more-than-j
+
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - http://blog.caelum.com.br/rest-principios-e-boas-praticas/
@@ -70,6 +72,9 @@
 - [Bem-vindo ao .NET - Docs Microsoft](https://docs.microsoft.com/pt-br/dotnet/welcome)
 - [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
 - [Criando um serviço RESTful com Web API em C#](http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/)
+
+- [ASP.NET Core: CRUD With React.js and Entity Framework Core](https://dzone.com/articles/aspnet-core-crud-with-reactjs-and-entity-framework)
+
 - [Build a Simple CRUD App with ASP.NET Core and Vue](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore)
 - [Artigos C# Macoratti](http://www.macoratti.net/pageview.aspx?catid=18)
 - [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - I](http://www.macoratti.net/17/04/aspcore_webapi1.htm)
