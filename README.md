@@ -161,6 +161,8 @@
 
 ## Mensageria
 - [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
+- [How To Do User Notifications From RabbitMQ Messages](https://derickbailey.com/2015/09/21/how-to-do-user-notifications-from-rabbitmq-messages/)
+- [Why Messaging? Why Not Have The Web Server Handle The Request?](https://derickbailey.com/2016/03/30/why-messaging-why-not-have-the-web-server-handle-the-request/)
 - https://www.concrete.com.br/2012/01/23/introducao-a-mensageria/
 - https://www.concrete.com.br/2012/01/23/apoio-introducao-a-mensageria/
 - https://www.concrete.com.br/2012/01/26/rabbitmq-conceitos-basicos/
