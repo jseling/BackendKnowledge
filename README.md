@@ -132,6 +132,7 @@
 - [https://blog.sourcerer.io/building-a-website-with-c-db942c801aee](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
 
 ## Docker
+- [So, You’re Saying Docker Isn’t A Virtual Machine???](https://derickbailey.com/2016/08/29/so-youre-saying-docker-isnt-a-virtual-machine/)
 - http://techfree.com.br/2016/03/porque-usar-docker/
 - http://techfree.com.br/2015/10/entendendo-o-docker-parte-1/
 - http://techfree.com.br/2015/11/container-vs-maquina-virtual/
