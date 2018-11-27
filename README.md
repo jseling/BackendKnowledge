@@ -160,6 +160,7 @@
 - https://yos.io/2017/10/30/distributed-sagas/
 
 ## Mensageria
+- [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
 - https://www.concrete.com.br/2012/01/23/introducao-a-mensageria/
 - https://www.concrete.com.br/2012/01/23/apoio-introducao-a-mensageria/
 - https://www.concrete.com.br/2012/01/26/rabbitmq-conceitos-basicos/
