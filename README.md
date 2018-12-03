@@ -122,6 +122,8 @@
 - https://www.infoq.com/minibooks/spring-boot-building-api-backend
 
 ## Go
+- [Primeiros passos com GoLang](https://medium.com/@programadriano/primeiros-passos-com-golang-1abdc60bba50)
+- [Criando API em GoLang](https://medium.com/@programadriano/nesse-artigo-veja-como-criar-uma-api-com-golang-bddd57c7cbef)
 - :clapper:[Curso Introdução](https://www.youtube.com/watch?v=SyNz6uos_qA&list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI)
 - https://go-tour-br.appspot.com/list
 - https://dev.to/codehakase/golang---getting-started-16c
@@ -163,6 +165,7 @@
 - https://yos.io/2017/10/30/distributed-sagas/
 
 ## Mensageria
+- [Introdução ao RabbitMQ](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-rabbitmq-4bfba460ad03)
 - [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
 - [How To Do User Notifications From RabbitMQ Messages](https://derickbailey.com/2015/09/21/how-to-do-user-notifications-from-rabbitmq-messages/)
 - [Why Messaging? Why Not Have The Web Server Handle The Request?](https://derickbailey.com/2016/03/30/why-messaging-why-not-have-the-web-server-handle-the-request/)
@@ -172,7 +175,11 @@
 - http://blog.cedrotech.com/rabbitmq-o-que-e-e-como-utilizar/
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/
 
+## Autenticação
+- [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
+
 ## GraphQL
+- [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7)
 - [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
 - [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
 - [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
