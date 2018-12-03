@@ -178,8 +178,13 @@
 - [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 
 ## ElasticSearh
+- [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
 - [Elasticsearch by Example: Part 1](https://codeburst.io/elasticsearch-by-example-part-1-a4a38cd97f55)
 - [Elasticsearch by Example: Part 2](https://codeburst.io/elasticsearch-by-example-part-2-73f9816f5404)
 - [Elasticsearch by Example: Part 3](https://codeburst.io/elasticsearch-by-example-part-3-2ec44d99892d)
 - [Elasticsearch by Example: Part 4](https://codeburst.io/elasticsearch-by-example-part-4-cd11928a579e)
 - [Elasticsearch by Example: Part 5](https://codeburst.io/elasticsearch-by-example-part-5-6495f69f3797)
+- [An Common Pattern with Elasticsearch](https://codeburst.io/an-common-pattern-with-elasticsearch-43b71a0d2c71)
+- [Techniques to Achieve High Write Throughput With Elasticsearch](https://thehoard.blog/techniques-to-achieve-high-write-throughput-with-elasticsearch-519ead926b63)
+- [From ElasticSearch back to SQL Server](https://medium.com/@mauridb/from-elasticsearch-back-to-sql-server-597249c16a9d)
+- [Instalando o Elasticsearch em um container Docker](https://medium.com/dockerbr/instalando-o-elasticsearch-em-um-container-docker-e759d74c0a4d)
