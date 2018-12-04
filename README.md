@@ -157,14 +157,14 @@
 - [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 - [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
 
-## Transações
+## Transactions
 - https://www.baeldung.com/transactions-across-microservices
 - https://stackoverflow.com/questions/30213456/transactions-across-rest-microservices
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 - https://softwareengineering.stackexchange.com/questions/290917/what-is-the-most-accepted-transaction-strategy-for-microservices
 - https://yos.io/2017/10/30/distributed-sagas/
 
-## Mensageria
+## Menssaging
 - [Introdução ao RabbitMQ](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-rabbitmq-4bfba460ad03)
 - [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
 - [How To Do User Notifications From RabbitMQ Messages](https://derickbailey.com/2015/09/21/how-to-do-user-notifications-from-rabbitmq-messages/)
@@ -175,7 +175,7 @@
 - http://blog.cedrotech.com/rabbitmq-o-que-e-e-como-utilizar/
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/
 
-## Autenticação
+## Autentication
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
 
 ## GraphQL
