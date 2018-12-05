@@ -17,12 +17,13 @@
 - http://www.csharpcourse.com/
 
 ## Concepts
-- https://martinfowler.com/articles/microservices.html
-- http://www.pedromendes.com.br/2016/01/02/microservicos/ (TRADUÇÃO)
-- https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell (RESUMO)
-- https://martinfowler.com/articles/extract-data-rich-service.html
-- [How to break a Monolith into Microservices - What to decouple and when](https://martinfowler.com/articles/break-monolith-into-microservices.html)
-- https://herbertograca.com/2017/01/26/microservices-architecture/
+- [Martin Fowler: Microservices
+a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
+- [Tradução: Microsserviços, por Martin Fowler e James Lewis](http://www.pedromendes.com.br/2016/01/02/microservicos/)
+- [Resumo: Microsserviços em poucas palavras](https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell) 
+- [Martin Fowler: How to extract a data-rich service from a monolith](https://martinfowler.com/articles/extract-data-rich-service.html)
+- [Martin Fowler: How to break a Monolith into Microservices - What to decouple and when](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+- [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 - https://www.infoq.com/br/articles/microservices-intro
 - https://microservices.io/patterns/microservices.html
@@ -43,7 +44,6 @@
 - https://www.infoq.com/br/presentations/gerenciamento-de-dados-com-micro-servicos-e-a-experiencia-do-ifood
 - http://www.luiztools.com.br/post/introducao-arquitetura-de-micro-servicos/
 - https://community.embarcadero.com/blogs/entry/build-flexible-and-robust-apps-with-a-multi-tier-architecture
-
 - https://dzone.com/articles/api-vs-microservices-a-microservice-is-more-than-j
 
 ## Cases
