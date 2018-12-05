@@ -13,7 +13,7 @@
 - [Understanding the Docker Ecosystem](https://resources.codeship.com/ebooks/docker-ecosystem?hsCtaTracking=7cc4c3c0-247b-40c2-8f1d-01f387a44c81%7Ceb8e001b-f02d-489e-aa0e-2f2a237d196f)
 - [Building Minimal Docker Images](https://resources.codeship.com/ebooks/minimal-docker-images)
 - [Refactoring a Monolithic Codebase](https://resources.codeship.com/ebooks/refactoring-monoliths)
-
+- [InfoQ Explores: REST](https://www.infoq.com/minibooks/emag-03-2010-rest?utm_source=minibooks_about_WebAPI&utm_medium=link&utm_campaign=WebAPI)
 - http://www.csharpcourse.com/
 
 ## Concepts
@@ -51,14 +51,14 @@
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-- http://blog.caelum.com.br/rest-principios-e-boas-praticas/
-- https://walde.co/2015/09/27/o-caminho-para-o-restful-parte-1-conceito-e-introducao/
-- https://walde.co/2015/09/28/o-caminho-para-o-restful-parte-2-versionamento-status-code-e-operacoes-de-crud/
-- https://walde.co/2015/10/12/o-caminho-para-o-restful-parte-3-codigos-query-parameters-e-hateoas/
-- https://www.infoq.com/minibooks/emag-03-2010-rest?utm_source=minibooks_about_WebAPI&utm_medium=link&utm_campaign=WebAPI
+- [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
+- :clapper:[O caminho para o RESTful: Parte 1 conceito e introdução](https://walde.co/2015/09/27/o-caminho-para-o-restful-parte-1-conceito-e-introducao/)
+- :clapper:[O caminho para o RESTful: Parte 2 versionamento, status code e operações de crud](https://walde.co/2015/09/28/o-caminho-para-o-restful-parte-2-versionamento-status-code-e-operacoes-de-crud/)
+- :clapper:[O Caminho para o RESTful: parte 3 códigos, query parameters e HATEOAS](https://walde.co/2015/10/12/o-caminho-para-o-restful-parte-3-codigos-query-parameters-e-hateoas/)O Caminho para o RESTful: parte 3 códigos, query parameters e HATEOAS
 - [REST X CRUD](https://www.infoq.com/news/2009/07/CRUDREST)
 - [RESTful API Best Practices and Common Pitfalls](https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5)
 - [The Future of APIs](https://blog.goodapi.co/future-of-apis-c84a76bc9c85)
+- [O que é REST e RESTful?](https://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful/45787#45787)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
@@ -70,7 +70,7 @@
 - [Criando um microsserviço de CRUD simples controlado por dados](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - :book::star:[Microsserviços .NET: arquitetura para aplicativos .NET em contêineres](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/)
 
-- https://docs.microsoft.com/pt-br/dotnet/core/docker/intro-net-docker
+- [Introdução ao .NET e ao Docker](https://docs.microsoft.com/pt-br/dotnet/core/docker/intro-net-docker)
 
 - [Bem-vindo ao .NET - Docs Microsoft](https://docs.microsoft.com/pt-br/dotnet/welcome)
 - [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
@@ -88,7 +88,10 @@
 - [Introdução ao ASP.NET Web API](https://www.devmedia.com.br/introducao-ao-asp-net-web-api/25180)
 - [Curso DevMedia - $$$](https://www.devmedia.com.br/guia/programador-net/37814)
 - [Padrões de Web API: Parte 1 Documentação, Requests, Responses](https://medium.com/@kenerrydeveloper/padr%C3%B5es-de-web-api-parte-1-documenta%C3%A7%C3%A3o-requests-responses-503491d3c55c?fbclid=IwAR2ULtIy2i-EVUpcnjtVw8Qp5yJe1B1WFus03XHOqk4JcgbGdTmeSilvs9Y)
-- https://medium.com/@sergioprates/criando-uma-api-streaming-com-net-core-b2eeaab0dfac?fbclid=IwAR1wnfVmGjlMxPv0fu2D57Hc1QQklI5bH8lnHPJtCaJ2CKh-yd81y8LZjt8
+- [Criando uma API Streaming com .NET Core](https://medium.com/@sergioprates/criando-uma-api-streaming-com-net-core-b2eeaab0dfac?fbclid=IwAR1wnfVmGjlMxPv0fu2D57Hc1QQklI5bH8lnHPJtCaJ2CKh-yd81y8LZjt8)
+
+- [O que é o .NET Core?](https://pt.stackoverflow.com/questions/40671/o-que-%C3%A9-o-net-core)
+- [Por que o .NET Core for criado?](https://pt.stackoverflow.com/questions/225927/por-que-o-net-core-for-criado)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
