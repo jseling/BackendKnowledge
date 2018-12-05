@@ -69,15 +69,11 @@
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
 - [Criando um microsserviço de CRUD simples controlado por dados](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - :book::star:[Microsserviços .NET: arquitetura para aplicativos .NET em contêineres](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/)
-
 - [Introdução ao .NET e ao Docker](https://docs.microsoft.com/pt-br/dotnet/core/docker/intro-net-docker)
-
 - [Bem-vindo ao .NET - Docs Microsoft](https://docs.microsoft.com/pt-br/dotnet/welcome)
 - [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
 - [Criando um serviço RESTful com Web API em C#](http://www.ciceroednilson.com.br/criando-um-servico-restful-com-web-api-em-c/)
-
 - [ASP.NET Core: CRUD With React.js and Entity Framework Core](https://dzone.com/articles/aspnet-core-crud-with-reactjs-and-entity-framework)
-
 - [Build a Simple CRUD App with ASP.NET Core and Vue](https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore)
 - [Artigos C# Macoratti](http://www.macoratti.net/pageview.aspx?catid=18)
 - [ASP .NET Core - Criando sua primeira Web API com ASP .NET Core MVC e VS 2017 - I](http://www.macoratti.net/17/04/aspcore_webapi1.htm)
@@ -89,7 +85,6 @@
 - [Curso DevMedia - $$$](https://www.devmedia.com.br/guia/programador-net/37814)
 - [Padrões de Web API: Parte 1 Documentação, Requests, Responses](https://medium.com/@kenerrydeveloper/padr%C3%B5es-de-web-api-parte-1-documenta%C3%A7%C3%A3o-requests-responses-503491d3c55c?fbclid=IwAR2ULtIy2i-EVUpcnjtVw8Qp5yJe1B1WFus03XHOqk4JcgbGdTmeSilvs9Y)
 - [Criando uma API Streaming com .NET Core](https://medium.com/@sergioprates/criando-uma-api-streaming-com-net-core-b2eeaab0dfac?fbclid=IwAR1wnfVmGjlMxPv0fu2D57Hc1QQklI5bH8lnHPJtCaJ2CKh-yd81y8LZjt8)
-
 - [O que é o .NET Core?](https://pt.stackoverflow.com/questions/40671/o-que-%C3%A9-o-net-core)
 - [Por que o .NET Core for criado?](https://pt.stackoverflow.com/questions/225927/por-que-o-net-core-for-criado)
 
