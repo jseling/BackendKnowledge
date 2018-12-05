@@ -54,7 +54,7 @@
 - [REST: Princípios e boas práticas](http://blog.caelum.com.br/rest-principios-e-boas-praticas/)
 - :clapper:[O caminho para o RESTful: Parte 1 conceito e introdução](https://walde.co/2015/09/27/o-caminho-para-o-restful-parte-1-conceito-e-introducao/)
 - :clapper:[O caminho para o RESTful: Parte 2 versionamento, status code e operações de crud](https://walde.co/2015/09/28/o-caminho-para-o-restful-parte-2-versionamento-status-code-e-operacoes-de-crud/)
-- :clapper:[O Caminho para o RESTful: parte 3 códigos, query parameters e HATEOAS](https://walde.co/2015/10/12/o-caminho-para-o-restful-parte-3-codigos-query-parameters-e-hateoas/)O Caminho para o RESTful: parte 3 códigos, query parameters e HATEOAS
+- :clapper:[O Caminho para o RESTful: parte 3 códigos, query parameters e HATEOAS](https://walde.co/2015/10/12/o-caminho-para-o-restful-parte-3-codigos-query-parameters-e-hateoas/)
 - [REST X CRUD](https://www.infoq.com/news/2009/07/CRUDREST)
 - [RESTful API Best Practices and Common Pitfalls](https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5)
 - [The Future of APIs](https://blog.goodapi.co/future-of-apis-c84a76bc9c85)
