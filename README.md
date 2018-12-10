@@ -46,8 +46,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://community.embarcadero.com/blogs/entry/build-flexible-and-robust-apps-with-a-multi-tier-architecture
 - https://dzone.com/articles/api-vs-microservices-a-microservice-is-more-than-j
 
-## Cases
+## Cases and Opinions
 - [How I built an app with 500,000 users in 5 days on a $100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
+- :clapper:[10 Tips for failing badly at Microservices by David Schmitz](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
