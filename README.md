@@ -129,6 +129,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://hakaselogs.me/2017-06-23/rest-api-with-golang
 - https://hakaselogs.me/2017-09-02/how-i-got-started-with-golang
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react
+- [FAQ](https://golang.org/doc/faq)
 
 ## C++
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
