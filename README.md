@@ -187,6 +187,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 - [Lessons Learned Migrating APIs to GraphQL](https://medium.com/open-graphql/lessons-learned-migrating-apis-to-graphql-8a015d08b163)
 - [Building a GraphQL API by Example: Restaurant Reviews (part 1 — the schema)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-acd80d60ec77)
+- [Building a GraphQL API By Example: Restaurant Reviews (part 2 — the backend)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-part-2-the-backend-f9ddfbe63dc9)
+- [Building a GraphQL API By Example: Restaurant Reviews (part 3 — resolvers)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-part-3-resolvers-90601a0c1e58)
+- [Building a GraphQL API By Example: Restaurant Reviews (part 4 — geospatial search)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-part-4-geospatial-search-e0e0d9dc0329)
 
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
