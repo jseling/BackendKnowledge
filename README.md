@@ -182,6 +182,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 
 ## GraphQL
 - [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7)
+- [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d)
 - [GraphQL vs. REST](https://blog.apollographql.com/graphql-vs-rest-5d425123e34b)
 - [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
 - [GraphQL: Everything You Need to Know](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
