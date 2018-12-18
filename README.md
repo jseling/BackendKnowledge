@@ -147,6 +147,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - http://techfree.com.br/2016/03/como-usar-docker-sem-gnulinux/
 - http://techfree.com.br/2016/11/lancamento-da-versao-estavel-do-livro-docker-para-desenvolvedores/
 - https://walde.co/2016/03/04/rodando-cakephp-com-docker-compose-nginx-e-mysql/
+- [4 Ways Docker Changed the Way Software Engineers Work in Past Half Decade](https://geshan.com.np/blog/2018/12/4-ways-docker-changed-the-way-software-engineers-work-in-past-half-decade/)
 
 ## Frontend
 - https://tylermcginnis.com/react-interview-questions/
