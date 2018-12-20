@@ -160,6 +160,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://blog.logrocket.com/how-browser-rendering-works-behind-the-scenes-6782b0e8fb10
 - [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 - [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
+- :star:[Introduction to React](https://flaviocopes.com/react/)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
