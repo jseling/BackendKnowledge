@@ -46,6 +46,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://community.embarcadero.com/blogs/entry/build-flexible-and-robust-apps-with-a-multi-tier-architecture
 - https://dzone.com/articles/api-vs-microservices-a-microservice-is-more-than-j
 - [Don’t Code Your Microservice Like a Monolith, Keep It Maintainable Not Over-engineered](https://geshan.com.np/blog/2018/10/dont-code-your-microservice-like-a-monolith/)
+- [How do you cut a monolith in half?](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
 
 ## Cases and Opinions
 - [How I built an app with 500,000 users in 5 days on a $100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
