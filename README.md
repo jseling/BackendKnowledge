@@ -65,6 +65,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [RESTful API Best Practices and Common Pitfalls](https://medium.com/@schneidenbach/restful-api-best-practices-and-common-pitfalls-7a83ba3763b5)
 - [The Future of APIs](https://blog.goodapi.co/future-of-apis-c84a76bc9c85)
 - [O que é REST e RESTful?](https://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful/45787#45787)
+- [How I explained ReST to a Troll](https://programmingisterrible.com/post/67568925007/how-i-explained-rest-to-a-troll)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
