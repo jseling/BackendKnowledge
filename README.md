@@ -94,6 +94,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Criando uma API Streaming com .NET Core](https://medium.com/@sergioprates/criando-uma-api-streaming-com-net-core-b2eeaab0dfac?fbclid=IwAR1wnfVmGjlMxPv0fu2D57Hc1QQklI5bH8lnHPJtCaJ2CKh-yd81y8LZjt8)
 - [O que é o .NET Core?](https://pt.stackoverflow.com/questions/40671/o-que-%C3%A9-o-net-core)
 - [Por que o .NET Core for criado?](https://pt.stackoverflow.com/questions/225927/por-que-o-net-core-for-criado)
+- [Creating a .Net Core REST API — Part 1: Setup and Database Modelling](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-1-setup-and-database-modelling-47bccf8d5685)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
