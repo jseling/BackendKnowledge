@@ -54,6 +54,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
 - [How we built Globoplay’s API Gateway using GraphQL](https://medium.com/@andreeberhardt/how-we-built-globoplays-api-gateway-using-graphql-60ea52d96426)
 - [Microservices First](https://blog.conjur.org/microservices-first/)
+- [Building scalable microservices with gRPC](https://blog.bugsnag.com/grpc-and-microservices-architecture/)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
