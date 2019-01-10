@@ -55,6 +55,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How we built Globoplay’s API Gateway using GraphQL](https://medium.com/@andreeberhardt/how-we-built-globoplays-api-gateway-using-graphql-60ea52d96426)
 - [Microservices First](https://blog.conjur.org/microservices-first/)
 - [Building scalable microservices with gRPC](https://blog.bugsnag.com/grpc-and-microservices-architecture/)
+- [REST is the new SOAP](https://medium.freecodecamp.org/rest-is-the-new-soap-97ff6c09896d)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
