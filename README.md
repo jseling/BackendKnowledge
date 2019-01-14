@@ -201,6 +201,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Building a GraphQL API By Example: Restaurant Reviews (part 2 — the backend)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-part-2-the-backend-f9ddfbe63dc9)
 - [Building a GraphQL API By Example: Restaurant Reviews (part 3 — resolvers)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-part-3-resolvers-90601a0c1e58)
 - [Building a GraphQL API By Example: Restaurant Reviews (part 4 — geospatial search)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-part-4-geospatial-search-e0e0d9dc0329)
+- [How to use Postman with GraphQL APIs](https://www.codetraveler.io/2019/01/12/how-to-use-postman-with-a-graphql-api/)
 
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
