@@ -167,6 +167,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Create React App 2.0: Babel 7, Sass, and More](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
 - [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
 - :star:[Introduction to React](https://flaviocopes.com/react/)
+- [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
