@@ -56,6 +56,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Microservices First](https://blog.conjur.org/microservices-first/)
 - [Building scalable microservices with gRPC](https://blog.bugsnag.com/grpc-and-microservices-architecture/)
 - [REST is the new SOAP](https://medium.freecodecamp.org/rest-is-the-new-soap-97ff6c09896d)
+- [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
@@ -154,6 +155,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - http://techfree.com.br/2016/11/lancamento-da-versao-estavel-do-livro-docker-para-desenvolvedores/
 - https://walde.co/2016/03/04/rodando-cakephp-com-docker-compose-nginx-e-mysql/
 - [4 Ways Docker Changed the Way Software Engineers Work in Past Half Decade](https://geshan.com.np/blog/2018/12/4-ways-docker-changed-the-way-software-engineers-work-in-past-half-decade/)
+- [Learn Enough Docker to be Useful - Part 1: The Conceptual Landscape](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 
 ## Frontend
 - https://tylermcginnis.com/react-interview-questions/
