@@ -47,6 +47,8 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://dzone.com/articles/api-vs-microservices-a-microservice-is-more-than-j
 - [Don’t Code Your Microservice Like a Monolith, Keep It Maintainable Not Over-engineered](https://geshan.com.np/blog/2018/10/dont-code-your-microservice-like-a-monolith/)
 - [How do you cut a monolith in half?](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
+- [Stop Calling Your APIs Microservices](https://blog.stoplight.io/stop-calling-your-apis-microservices-e165a80eba9d)
+
 
 ## Cases and Opinions
 - [How I built an app with 500,000 users in 5 days on a $100 server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
@@ -69,6 +71,11 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [The Future of APIs](https://blog.goodapi.co/future-of-apis-c84a76bc9c85)
 - [O que é REST e RESTful?](https://pt.stackoverflow.com/questions/45783/o-que-%C3%A9-rest-e-restful/45787#45787)
 - [How I explained ReST to a Troll](https://programmingisterrible.com/post/67568925007/how-i-explained-rest-to-a-troll)
+- [How NOT to design APIs](https://medium.com/@robertas.konarskis/how-not-to-design-restful-apis-fb4892d9057a)
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+
+### Architecture
+- [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
@@ -140,6 +147,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://hakaselogs.me/2017-09-02/how-i-got-started-with-golang
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react
 - [FAQ](https://golang.org/doc/faq)
+- [Learning Go — from zero to hero](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)
 
 ## C++
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
