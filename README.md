@@ -178,7 +178,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Hello, React! - A Beginner's Setup Tutorial](http://aspiringcraftsman.com/2017/05/25/hello-react-a-beginners-setup-tutorial/)
 - :star:[Introduction to React](https://flaviocopes.com/react/)
 - [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
-- [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+- [The React Handbook](https://drive.google.com/drive/folders/1V7r9p8ERnJg6kL8cc8WG0haI03YSLqly)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
