@@ -105,6 +105,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [O que é o .NET Core?](https://pt.stackoverflow.com/questions/40671/o-que-%C3%A9-o-net-core)
 - [Por que o .NET Core for criado?](https://pt.stackoverflow.com/questions/225927/por-que-o-net-core-for-criado)
 - [Creating a .Net Core REST API — Part 1: Setup and Database Modelling](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-1-setup-and-database-modelling-47bccf8d5685)
+- [Creating a .Net Core REST API — Part 2: Controller setup](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-2-controller-setup-8f71408d8f4e)
+- [Creating a .Net Core REST API — Part 3: Finishing our Controller](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-3-finishing-our-controller-2caa77771be6)
+- [Creating a .Net Core REST API — Part 4: Extras](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-4-extras-fbd337aaf067)
 - [A Tutorial: Learn How to Avoid the 10 Most Common Mistakes That C# Developers Make](https://www.techmagister.info/2016/12/a-tutorial-learn-how-to-avoid-10-most.html)
 
 ## JavaScript
