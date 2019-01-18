@@ -203,6 +203,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
 - [Learn how to use JSON Web Tokens (JWT) for much Authentication win!](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
 - [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
+- [How (not) to store passwords](https://itnext.io/how-not-to-store-passwords-4955569e6e84)
 
 ## GraphQL
 - [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7)
