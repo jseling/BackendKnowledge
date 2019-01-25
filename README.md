@@ -48,6 +48,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Don’t Code Your Microservice Like a Monolith, Keep It Maintainable Not Over-engineered](https://geshan.com.np/blog/2018/10/dont-code-your-microservice-like-a-monolith/)
 - [How do you cut a monolith in half?](https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half)
 - [Stop Calling Your APIs Microservices](https://blog.stoplight.io/stop-calling-your-apis-microservices-e165a80eba9d)
+- [Microservices Architecture Design and Patterns](https://dzone.com/articles/microservices-july2018)
 
 
 ## Cases and Opinions
