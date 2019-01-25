@@ -203,6 +203,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://www.concrete.com.br/2012/01/26/rabbitmq-conceitos-basicos/
 - http://blog.cedrotech.com/rabbitmq-o-que-e-e-como-utilizar/
 - https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+- [RabbitMQ in Microservices](https://dzone.com/articles/rabbitmq-in-microservices)
+- [Asynchronous Messaging: RabbitMQ Introduction](https://dzone.com/articles/asynchronous-messaging-rabbitmq-introduction)
+- [Getting Started with RabbitMQ with .NET](https://dzone.com/articles/getting-started-with-rabbitmq-on-windows)
 
 ## Autentication
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
