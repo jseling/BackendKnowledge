@@ -172,6 +172,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [4 Ways Docker Changed the Way Software Engineers Work in Past Half Decade](https://geshan.com.np/blog/2018/12/4-ways-docker-changed-the-way-software-engineers-work-in-past-half-decade/)
 - [Learn Enough Docker to be Useful - Part 1: The Conceptual Landscape](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 
+## Kubernetes
+- [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
+
 ## Frontend
 - https://tylermcginnis.com/react-interview-questions/
 - https://hakaselogs.me/2017-12-05/react-native-vs-ionic
