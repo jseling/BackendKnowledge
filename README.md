@@ -254,3 +254,4 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 ## Databases
 - [SQLite in 2018: A state of the art SQL dialect](https://modern-sql.com/blog/2019-01/sqlite-in-2018)
 - [Life of a SQL query](https://numeracy.co/blog/life-of-a-sql-query)
+- [SQL - Apresentando Common Table Expression (CTE)](http://www.macoratti.net/13/05/sql_cte1.htm)
