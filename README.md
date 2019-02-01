@@ -50,6 +50,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Stop Calling Your APIs Microservices](https://blog.stoplight.io/stop-calling-your-apis-microservices-e165a80eba9d)
 - [Microservices Architecture Design and Patterns](https://dzone.com/articles/microservices-july2018)
 - [Microservices: Organizational practices](https://medium.com/zoom-techblog/microservices-organizational-practices-5ac8cb253509)
+- [How to Breakthrough the Old Monolith Using the Strangler Pattern](https://dev.to/kylegalbraith/how-to-breakthrough-the-old-monolith-using-the-strangler-pattern-63e)
 
 
 ## Cases and Opinions
