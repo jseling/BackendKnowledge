@@ -114,6 +114,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [A Tutorial: Learn How to Avoid the 10 Most Common Mistakes That C# Developers Make](https://www.techmagister.info/2016/12/a-tutorial-learn-how-to-avoid-10-most.html)
 - [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
 - [LINQ to A*](https://rvhuang.github.io/linq-to-astar/)
+- [Emgu CV: OpenCV in .NET](http://www.emgu.com/wiki/index.php/Main_Page)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
