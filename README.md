@@ -113,6 +113,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Creating a .Net Core REST API — Part 4: Extras](https://medium.com/@kieran.gillibrand/creating-a-net-core-rest-api-part-4-extras-fbd337aaf067)
 - [A Tutorial: Learn How to Avoid the 10 Most Common Mistakes That C# Developers Make](https://www.techmagister.info/2016/12/a-tutorial-learn-how-to-avoid-10-most.html)
 - [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
+- [LINQ to A*](https://rvhuang.github.io/linq-to-astar/)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
