@@ -215,6 +215,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [RabbitMQ in Microservices](https://dzone.com/articles/rabbitmq-in-microservices)
 - [Asynchronous Messaging: RabbitMQ Introduction](https://dzone.com/articles/asynchronous-messaging-rabbitmq-introduction)
 - [Getting Started with RabbitMQ with .NET](https://dzone.com/articles/getting-started-with-rabbitmq-on-windows)
+- [Event Sourcing is Hard Or Event sourcing is not the same as event driven](https://en.reddit.com/r/programming/comments/amvde6/dont_let_the_internet_dupe_you_event_sourcing_is/)
 
 ## Autentication
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
