@@ -168,6 +168,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Modern C++ micro-serivce + REST API, Part II](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)
 - [https://blog.sourcerer.io/building-a-website-with-c-db942c801aee](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
 - [Spawning Your First C++ Fleet with Service Fabric and REST SDK](https://mahdytech.com/2019/02/04/spawning-first-restful-c-fleet-with-service-fabric-rest-sdk/)
+- [How to Write Fast Services in C++](https://mahdytech.com/2018/12/23/fast-services-cpp/)
 
 ## Docker
 - [So, You’re Saying Docker Isn’t A Virtual Machine???](https://derickbailey.com/2016/08/29/so-youre-saying-docker-isnt-a-virtual-machine/)
