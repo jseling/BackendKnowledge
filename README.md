@@ -51,6 +51,8 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Microservices Architecture Design and Patterns](https://dzone.com/articles/microservices-july2018)
 - [Microservices: Organizational practices](https://medium.com/zoom-techblog/microservices-organizational-practices-5ac8cb253509)
 - [How to Breakthrough the Old Monolith Using the Strangler Pattern](https://dev.to/kylegalbraith/how-to-breakthrough-the-old-monolith-using-the-strangler-pattern-63e)
+- [When ACID went Sour](https://medium.com/jumbo-tech-campus/when-acid-went-sour-e6d7be96c082)
+- [Checklist: what had to be done before deploying microservices to production](https://habr.com/en/post/438186/)
 
 
 ## Cases and Opinions
