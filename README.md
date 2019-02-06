@@ -53,6 +53,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How to Breakthrough the Old Monolith Using the Strangler Pattern](https://dev.to/kylegalbraith/how-to-breakthrough-the-old-monolith-using-the-strangler-pattern-63e)
 - [When ACID went Sour](https://medium.com/jumbo-tech-campus/when-acid-went-sour-e6d7be96c082)
 - [Checklist: what had to be done before deploying microservices to production](https://habr.com/en/post/438186/)
+- [Divide and Conquer with Microservices](https://www.uruit.com/blog/microservices-architecture/)
 
 
 ## Cases and Opinions
@@ -64,6 +65,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Building scalable microservices with gRPC](https://blog.bugsnag.com/grpc-and-microservices-architecture/)
 - [REST is the new SOAP](https://medium.freecodecamp.org/rest-is-the-new-soap-97ff6c09896d)
 - [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
+- [What Two Years With Microservices Taught Me](https://programmerfriend.com/index.php/2019/02/05/what-two-years-with-microservices-taught-me/)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
@@ -165,6 +167,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
 - [Modern C++ micro-serivce + REST API, Part II](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)
 - [https://blog.sourcerer.io/building-a-website-with-c-db942c801aee](https://blog.sourcerer.io/building-a-website-with-c-db942c801aee)
+- [Spawning Your First C++ Fleet with Service Fabric and REST SDK](https://mahdytech.com/2019/02/04/spawning-first-restful-c-fleet-with-service-fabric-rest-sdk/)
 
 ## Docker
 - [So, You’re Saying Docker Isn’t A Virtual Machine???](https://derickbailey.com/2016/08/29/so-youre-saying-docker-isnt-a-virtual-machine/)
