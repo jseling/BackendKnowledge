@@ -83,6 +83,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 
 ### Architecture
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+- [Best practices for cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
