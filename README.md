@@ -91,6 +91,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://www.programmableweb.com/news/what-programming-language-most-popular-apis/2013/06/03
 
 ## .NET
+- [Free Learning Courses Microsoft](https://developer.microsoft.com/pt-br/collective/learning/courses)
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
 - [Criando um microsserviço de CRUD simples controlado por dados](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - :book::star:[Microsserviços .NET: arquitetura para aplicativos .NET em contêineres](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/)
