@@ -54,6 +54,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [When ACID went Sour](https://medium.com/jumbo-tech-campus/when-acid-went-sour-e6d7be96c082)
 - [Checklist: what had to be done before deploying microservices to production](https://habr.com/en/post/438186/)
 - [Divide and Conquer with Microservices](https://www.uruit.com/blog/microservices-architecture/)
+- [Monolithic vs. Microservices Architecture: Which is Right for Your App](https://mlsdev.com/blog/128-microservices-vs-monoliths-how-to-understand-when-it-s-time-to-use-the-former-option)
 
 
 ## Cases and Opinions
