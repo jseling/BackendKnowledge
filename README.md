@@ -210,6 +210,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/
 - https://softwareengineering.stackexchange.com/questions/290917/what-is-the-most-accepted-transaction-strategy-for-microservices
 - https://yos.io/2017/10/30/distributed-sagas/
+- [Transactions across REST microservices?](https://stackoverflow.com/questions/30213456/transactions-across-rest-microservices)
 
 ## Mensageria/Message broker
 - [Introdução ao RabbitMQ](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-rabbitmq-4bfba460ad03)
@@ -248,6 +249,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How to use Postman with GraphQL APIs](https://www.codetraveler.io/2019/01/12/how-to-use-postman-with-a-graphql-api/)
 - [Image management via GraphQL](https://fullstack-developer.academy/image-management-via-graphql/)
 - [GraphQL Editor](https://app.graphqleditor.com/)
+- [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
 
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
