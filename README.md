@@ -122,6 +122,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
 - [LINQ to A*](https://rvhuang.github.io/linq-to-astar/)
 - [Emgu CV: OpenCV in .NET](http://www.emgu.com/wiki/index.php/Main_Page)
+- [Default Interface Methods in C# 8](https://www.infoq.com/articles/default-interface-methods-cs8)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
