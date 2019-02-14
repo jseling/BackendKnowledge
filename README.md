@@ -1,8 +1,7 @@
 # BackendKnowledge
 
 ## Blogs & sites sources
-- https://blog.gojekengineering.com/
-- https://developer.okta.com/blog/
+- [Okta](https://developer.okta.com/blog/)
 - :clapper:[JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
 - :clapper:[ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
 - [Docker - Qual a melhor maneira para se trabalhar](https://github.com/backend-br/forum/issues/53)
