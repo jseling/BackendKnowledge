@@ -80,6 +80,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How I explained ReST to a Troll](https://programmingisterrible.com/post/67568925007/how-i-explained-rest-to-a-troll)
 - [How NOT to design APIs](https://medium.com/@robertas.konarskis/how-not-to-design-restful-apis-fb4892d9057a)
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+- [Nivelando sua Rest API](https://www.infoq.com/br/articles/nivelando-sua-rest-api)
 
 ### Architecture
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
