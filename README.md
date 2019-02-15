@@ -185,6 +185,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://walde.co/2016/03/04/rodando-cakephp-com-docker-compose-nginx-e-mysql/
 - [4 Ways Docker Changed the Way Software Engineers Work in Past Half Decade](https://geshan.com.np/blog/2018/12/4-ways-docker-changed-the-way-software-engineers-work-in-past-half-decade/)
 - [Learn Enough Docker to be Useful - Part 1: The Conceptual Landscape](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
+- [Docker — from the beginning, Part I](https://itnext.io/docker-from-the-beginning-part-i-ae809b84f89f)
 
 ## Kubernetes
 - [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
