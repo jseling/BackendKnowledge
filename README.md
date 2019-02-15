@@ -54,6 +54,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Checklist: what had to be done before deploying microservices to production](https://habr.com/en/post/438186/)
 - [Divide and Conquer with Microservices](https://www.uruit.com/blog/microservices-architecture/)
 - [Monolithic vs. Microservices Architecture: Which is Right for Your App](https://mlsdev.com/blog/128-microservices-vs-monoliths-how-to-understand-when-it-s-time-to-use-the-former-option)
+- [5 passos para preparar uma arquitetura de microserviços](https://blog.mandic.com.br/artigos/5-passos-para-preparar-uma-arquitetura-de-microservicos/)
 
 
 ## Cases and Opinions
