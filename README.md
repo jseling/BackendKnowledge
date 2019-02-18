@@ -206,6 +206,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 - [The React Handbook](https://drive.google.com/drive/folders/1V7r9p8ERnJg6kL8cc8WG0haI03YSLqly)
 - [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
+- [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
