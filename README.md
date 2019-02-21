@@ -142,6 +142,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://stackoverflow.com/questions/17959663/why-is-node-js-single-threaded
 - [Build a Node.js API in Under 30 Minutes](https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2)
 - [Why I Use NodeJS for Basically Everything I Do.](https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc)
+- [16 year old author: Get Started With Node: An Introduction To APIs, HTTP And ES6+ JavaScript](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/)
 
 ## Redis
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
