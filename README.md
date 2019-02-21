@@ -269,6 +269,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Techniques to Achieve High Write Throughput With Elasticsearch](https://thehoard.blog/techniques-to-achieve-high-write-throughput-with-elasticsearch-519ead926b63)
 - [From ElasticSearch back to SQL Server](https://medium.com/@mauridb/from-elasticsearch-back-to-sql-server-597249c16a9d)
 - [Instalando o Elasticsearch em um container Docker](https://medium.com/dockerbr/instalando-o-elasticsearch-em-um-container-docker-e759d74c0a4d)
+- [How to start with Elastic Search in 2019](https://static1.squarespace.com/static/5962c776e58c62cb70338206/t/5c6dfde79140b7a9ae970bd0/1550712304546/Elastic+Search-FINAL.pdf)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
