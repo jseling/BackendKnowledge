@@ -125,6 +125,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [LINQ to A*](https://rvhuang.github.io/linq-to-astar/)
 - [Emgu CV: OpenCV in .NET](http://www.emgu.com/wiki/index.php/Main_Page)
 - [Default Interface Methods in C# 8](https://www.infoq.com/articles/default-interface-methods-cs8)
+- [How to Implement Pagination in an ASP.NET Core App](https://dzone.com/articles/create-pagination-in-records-in-aspnet-core)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
