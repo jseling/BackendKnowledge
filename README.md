@@ -55,7 +55,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Divide and Conquer with Microservices](https://www.uruit.com/blog/microservices-architecture/)
 - [Monolithic vs. Microservices Architecture: Which is Right for Your App](https://mlsdev.com/blog/128-microservices-vs-monoliths-how-to-understand-when-it-s-time-to-use-the-former-option)
 - [5 passos para preparar uma arquitetura de microserviços](https://blog.mandic.com.br/artigos/5-passos-para-preparar-uma-arquitetura-de-microservicos/)
-
+- [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
@@ -98,6 +98,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
 - [Criando um microsserviço de CRUD simples controlado por dados](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - :book::star:[Microsserviços .NET: arquitetura para aplicativos .NET em contêineres](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/)
+- :book:[The Little ASP.NET Core Book](https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/)
 - [Introdução ao .NET e ao Docker](https://docs.microsoft.com/pt-br/dotnet/core/docker/intro-net-docker)
 - [Bem-vindo ao .NET - Docs Microsoft](https://docs.microsoft.com/pt-br/dotnet/welcome)
 - [Criando e consumindo uma Web API (C#) – Parte 01](https://imasters.com.br/dotnet/criando-e-consumindo-uma-web-api-c-parte-01)
