@@ -127,6 +127,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Emgu CV: OpenCV in .NET](http://www.emgu.com/wiki/index.php/Main_Page)
 - [Default Interface Methods in C# 8](https://www.infoq.com/articles/default-interface-methods-cs8)
 - [How to Implement Pagination in an ASP.NET Core App](https://dzone.com/articles/create-pagination-in-records-in-aspnet-core)
+- [An awesome guide on how to build RESTful APIs with ASP.NET Core](https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
