@@ -5,6 +5,7 @@
 - :clapper:[JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
 - :clapper:[ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
 - [Docker - Qual a melhor maneira para se trabalhar](https://github.com/backend-br/forum/issues/53)
+- [Scrimba is a powerful new way of learning code. ](https://scrimba.com/)
 
 ## Free Ebooks
 - [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices?hsCtaTracking=06b99bf1-b74a-4226-884d-6a0caaaac97c%7C33f166b2-6c4b-40fb-bc7d-63c523f91fea)
