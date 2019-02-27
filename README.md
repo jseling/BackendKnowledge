@@ -240,6 +240,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Getting Started with RabbitMQ with .NET](https://dzone.com/articles/getting-started-with-rabbitmq-on-windows)
 - [Event Sourcing is Hard Or Event sourcing is not the same as event driven](https://en.reddit.com/r/programming/comments/amvde6/dont_let_the_internet_dupe_you_event_sourcing_is/)
 - [MESSAGING PATTERNS TO KNOW IN MICROSERVICES – PART I](https://www.schibsted.pl/blog/back-end/messaging-patterns-microservices-part-1/)
+- [Riot messaging service](https://engineering.riotgames.com/news/riot-messaging-service)
 
 ## Autentication
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
