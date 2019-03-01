@@ -96,7 +96,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://www.theserverside.com/feature/The-right-language-for-microservice-orchestration-and-development
 - https://www.programmableweb.com/news/what-programming-language-most-popular-apis/2013/06/03
 
-## .NET
+## .NET & C#
 - [Free Learning Courses Microsoft](https://developer.microsoft.com/pt-br/collective/learning/courses)
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
 - [Criando um microsserviço de CRUD simples controlado por dados](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice)
@@ -131,6 +131,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Default Interface Methods in C# 8](https://www.infoq.com/articles/default-interface-methods-cs8)
 - [How to Implement Pagination in an ASP.NET Core App](https://dzone.com/articles/create-pagination-in-records-in-aspnet-core)
 - [An awesome guide on how to build RESTful APIs with ASP.NET Core](https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28)
+- [Is C# a low-level language?](https://mattwarren.org/2019/03/01/Is-CSharp-a-low-level-language/)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
