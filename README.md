@@ -199,6 +199,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 ## Kubernetes
 - [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
 - [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
+- [Killing Kubernetes](https://blog.freetrade.io/killing-kubernetes-7f8b61c701aa)
 
 ## Frontend
 - https://tylermcginnis.com/react-interview-questions/
