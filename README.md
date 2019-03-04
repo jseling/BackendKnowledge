@@ -181,6 +181,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [FAQ](https://golang.org/doc/faq)
 - [Learning Go — from zero to hero](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)
 
+## Clojure
+- [Why you should use Clojure for your next microservice](https://developer.atlassian.com/blog/2016/03/why-clojure/)
+
 ## C++
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
 - [Modern C++ micro-serivce + REST API, Part II](https://medium.com/audelabs/modern-c-micro-serivce-rest-api-part-ii-7be067440ca8)
