@@ -1,6 +1,7 @@
 # BackendKnowledge
 
 ## Blogs & sites sources
+- [microservices.io -  Chris Richardson](https://microservices.io/)
 - [Okta](https://developer.okta.com/blog/)
 - :clapper:[JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
 - :clapper:[ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
@@ -59,6 +60,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/)
 - [Microservices na perspectiva de uma Startup](https://www.infoq.com/br/articles/microservices-startup)
 - [Sete antipadrões para microservices](https://www.infoq.com/br/articles/seven-uservices-antipatterns)
+- [How microservices are changing the way we make applications](https://www.uruit.com/blog/microservices-architecture/)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
