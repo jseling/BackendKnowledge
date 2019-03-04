@@ -296,6 +296,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 - [BaaS (Backend as a Service)](https://pt.stackoverflow.com/questions/298361/o-que-%C3%A9-um-backend-as-a-service-baas)
 - [FaaS (Functions as a Service)](https://en.wikipedia.org/wiki/Function_as_a_service)
+- [PaaS (Platform as a Service)](https://pt.wikipedia.org/wiki/Plataforma_como_servi%C3%A7o)
 
 ### Non-Cloud
 - [SaaS (Software as a service)](https://pt.wikipedia.org/wiki/Software_como_servi%C3%A7o)
