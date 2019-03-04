@@ -300,4 +300,4 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 
 ### Non-Cloud
 - [SaaS (Software as a service)](https://pt.wikipedia.org/wiki/Software_como_servi%C3%A7o)
-- [HaaS (Hardware as a Service)](https://pt.wikipedia.org/wiki/HaaS)
+- [IaaS/HaaS (Infrastructure as a service/Hardware as a Service)](https://pt.wikipedia.org/wiki/HaaS)
