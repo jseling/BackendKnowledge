@@ -24,6 +24,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Resumo: Microsserviços em poucas palavras](https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell) 
 - [Martin Fowler: How to extract a data-rich service from a monolith](https://martinfowler.com/articles/extract-data-rich-service.html)
 - [Martin Fowler: How to break a Monolith into Microservices - What to decouple and when](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+- [Microservices, Containers and Kubernetes in 10 minutes](https://gravitational.com/blog/microservices-containers-kubernetes/)
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
 - https://www.infoq.com/br/articles/microservices-intro
