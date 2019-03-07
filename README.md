@@ -278,11 +278,11 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [GraphQL Performance issues and how to handle them](https://blog.graphqleditor.com/GraphQL-Performance-issues-and-how-to-handle-them/)
 
 ### GraphQL Caputo
-https://graphql.org/learn/
-https://lucasconstantino.github.io/graphiql-online/
-https://github.com/graphql-dotnet/graphql-dotnet
-https://github.com/graphql-dotnet/examples
-https://developer.github.com/v4/explorer/
+- https://graphql.org/learn/
+- https://lucasconstantino.github.io/graphiql-online/
+- https://github.com/graphql-dotnet/graphql-dotnet
+- https://github.com/graphql-dotnet/examples
+- https://developer.github.com/v4/explorer/
 
 
 ## ElasticSearh
