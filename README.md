@@ -275,6 +275,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [GraphQL Editor](https://app.graphqleditor.com/)
 - [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
 - [GraphQL in a Micro Services Architecture](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)
+- [GraphQL Performance issues and how to handle them](https://blog.graphqleditor.com/GraphQL-Performance-issues-and-how-to-handle-them/)
 
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
@@ -297,6 +298,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [SQLite in 2018: A state of the art SQL dialect](https://modern-sql.com/blog/2019-01/sqlite-in-2018)
 - [Life of a SQL query](https://numeracy.co/blog/life-of-a-sql-query)
 - [SQL - Apresentando Common Table Expression (CTE)](http://www.macoratti.net/13/05/sql_cte1.htm)
+- [How to Calculate a Cumulative Percentage in SQL](https://blog.jooq.org/2019/02/14/how-to-calculate-a-cumulative-percentage-in-sql/)
 
 ## Arquiteturas
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
