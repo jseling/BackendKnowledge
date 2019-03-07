@@ -276,6 +276,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
 - [GraphQL in a Micro Services Architecture](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)
 - [GraphQL Performance issues and how to handle them](https://blog.graphqleditor.com/GraphQL-Performance-issues-and-how-to-handle-them/)
+- [GraphQL Seems Like We Do Not Want to Do the Hard Work of API Design](https://dzone.com/articles/graphql-seems-like-we-do-not-want-to-do-the-hard-w)
 
 ### GraphQL Caputo
 - https://graphql.org/learn/
