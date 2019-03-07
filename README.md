@@ -62,6 +62,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Microservices na perspectiva de uma Startup](https://www.infoq.com/br/articles/microservices-startup)
 - [Sete antipadrões para microservices](https://www.infoq.com/br/articles/seven-uservices-antipatterns)
 - [How microservices are changing the way we make applications](https://www.uruit.com/blog/microservices-architecture/)
+- [How Are Your Microservices Talking?](https://dzone.com/articles/how-are-your-microservices-talking)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
