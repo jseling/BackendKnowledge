@@ -277,6 +277,14 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [GraphQL in a Micro Services Architecture](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)
 - [GraphQL Performance issues and how to handle them](https://blog.graphqleditor.com/GraphQL-Performance-issues-and-how-to-handle-them/)
 
+### GraphQL Caputo
+https://graphql.org/learn/
+https://lucasconstantino.github.io/graphiql-online/
+https://github.com/graphql-dotnet/graphql-dotnet
+https://github.com/graphql-dotnet/examples
+https://developer.github.com/v4/explorer/
+
+
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
 - [Elasticsearch by Example: Part 1](https://codeburst.io/elasticsearch-by-example-part-1-a4a38cd97f55)
