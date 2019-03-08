@@ -63,6 +63,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Sete antipadrões para microservices](https://www.infoq.com/br/articles/seven-uservices-antipatterns)
 - [How microservices are changing the way we make applications](https://www.uruit.com/blog/microservices-architecture/)
 - [How Are Your Microservices Talking?](https://dzone.com/articles/how-are-your-microservices-talking)
+- [Monolithic vs. Microservices: Which Is the Better Architecture App Development?](https://dzone.com/articles/monolithic-vs-microservices-which-is-the-better-ar)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
@@ -145,6 +146,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [An awesome guide on how to build RESTful APIs with ASP.NET Core](https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28)
 - [Is C# a low-level language?](https://mattwarren.org/2019/03/01/Is-CSharp-a-low-level-language/)
 - [Creating Domain-Driven Design entity classes with Entity Framework Core](https://www.thereformedprogrammer.net/creating-domain-driven-design-entity-classes-with-entity-framework-core/)
+- [Building Microservices On .NET Core – Part 1 The Plan](https://altkomsoftware.pl/en/blog/building-microservices-on-net-core-1/)
+- [Building Microservices On .NET Core – Part 2 Shaping microservice internal architecture with CQRS and MediatR](https://altkomsoftware.pl/en/blog/microservices-net-core-cqrs-mediatr/)
+- [Building Microservices On .NET Core – Part 3 Service Discovery with Eureka](https://altkomsoftware.pl/en/blog/service-discovery-eureka/)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
@@ -234,6 +238,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [React vs. Angular Compared: Which One Suits Your Project Better?](https://dzone.com/articles/react-vs-angular-compared-which-one-suits-your-pro)
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
+- [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
