@@ -96,6 +96,12 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 ### Architecture
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [Best practices for cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
+- [BaaS (Backend as a Service)](https://pt.stackoverflow.com/questions/298361/o-que-%C3%A9-um-backend-as-a-service-baas)
+- [FaaS (Functions as a Service)](https://en.wikipedia.org/wiki/Function_as_a_service)
+- [PaaS (Platform as a Service)](https://pt.wikipedia.org/wiki/Plataforma_como_servi%C3%A7o)
+- [SaaS (Software as a service)](https://pt.wikipedia.org/wiki/Software_como_servi%C3%A7o)
+- [IaaS/HaaS (Infrastructure as a service/Hardware as a Service)](https://pt.wikipedia.org/wiki/HaaS)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
@@ -310,13 +316,4 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Life of a SQL query](https://numeracy.co/blog/life-of-a-sql-query)
 - [SQL - Apresentando Common Table Expression (CTE)](http://www.macoratti.net/13/05/sql_cte1.htm)
 - [How to Calculate a Cumulative Percentage in SQL](https://blog.jooq.org/2019/02/14/how-to-calculate-a-cumulative-percentage-in-sql/)
-
-## Arquiteturas
-- [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
-- [BaaS (Backend as a Service)](https://pt.stackoverflow.com/questions/298361/o-que-%C3%A9-um-backend-as-a-service-baas)
-- [FaaS (Functions as a Service)](https://en.wikipedia.org/wiki/Function_as_a_service)
-- [PaaS (Platform as a Service)](https://pt.wikipedia.org/wiki/Plataforma_como_servi%C3%A7o)
-
-### Non-Cloud
-- [SaaS (Software as a service)](https://pt.wikipedia.org/wiki/Software_como_servi%C3%A7o)
-- [IaaS/HaaS (Infrastructure as a service/Hardware as a Service)](https://pt.wikipedia.org/wiki/HaaS)
+- [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
