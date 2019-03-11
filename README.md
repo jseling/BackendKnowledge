@@ -193,6 +193,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react
 - [FAQ](https://golang.org/doc/faq)
 - [Learning Go — from zero to hero](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)
+- [Go: A Comprehensive Introduction](https://maex.me/2019/03/go-a-comprehensive-introduction/)
 
 ## Clojure
 - [Why you should use Clojure for your next microservice](https://developer.atlassian.com/blog/2016/03/why-clojure/)
