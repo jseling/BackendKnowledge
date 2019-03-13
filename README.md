@@ -80,6 +80,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Why VIPER is a bad choice for your next application](https://medium.com/@Pr0Ger/why-viper-is-a-bad-choice-for-your-next-application-725f4e16fbee)
 - [How Netflix Works With ISPs Around the Globe to Deliver a Great Viewing Experience](https://media.netflix.com/en/company-blog/how-netflix-works-with-isps-around-the-globe-to-deliver-a-great-viewing-experience)
 - [How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix](https://medium.com/netflix-techblog/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c)
+- [Give Me Back My Monolith](http://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
