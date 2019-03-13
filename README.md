@@ -322,6 +322,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Instalando o Elasticsearch em um container Docker](https://medium.com/dockerbr/instalando-o-elasticsearch-em-um-container-docker-e759d74c0a4d)
 - [How to start with Elastic Search in 2019](https://static1.squarespace.com/static/5962c776e58c62cb70338206/t/5c6dfde79140b7a9ae970bd0/1550712304546/Elastic+Search-FINAL.pdf)
 - [6 not so obvious things about Elasticsearch](https://blog.softwaremill.com/6-not-so-obvious-things-about-elasticsearch-422491494aa4)
+- [Tuning Fluentd: Retries — Avoiding Duplicate Documents in Elasticsearch](https://medium.com/redbox-techblog/tuning-fluentd-retries-avoiding-duplicate-documents-in-elasticsearch-e7cb9630a453)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
