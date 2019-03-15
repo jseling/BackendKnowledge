@@ -233,6 +233,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
 - [Learn Kubernetes in Under 3 Hours: A Detailed Guide to Orchestrating Containers](https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882)
 - [Killing Kubernetes](https://blog.freetrade.io/killing-kubernetes-7f8b61c701aa)
+- [Conquering Statefulness on Kubernetes](https://medium.com/capital-one-tech/conquering-statefulness-on-kubernetes-26336d5f4f17)
 
 ## Frontend
 - https://tylermcginnis.com/react-interview-questions/
