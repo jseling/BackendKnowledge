@@ -81,6 +81,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How Netflix Works With ISPs Around the Globe to Deliver a Great Viewing Experience](https://media.netflix.com/en/company-blog/how-netflix-works-with-isps-around-the-globe-to-deliver-a-great-viewing-experience)
 - [How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix](https://medium.com/netflix-techblog/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c)
 - [Give Me Back My Monolith](http://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+- [Microservices: Stone Soup for the Enterprise](https://medium.com/capital-one-tech/microservices-stone-soup-for-the-enterprise-171789f4566b)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
