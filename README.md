@@ -304,6 +304,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [GraphQL in a Micro Services Architecture](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)
 - [GraphQL Performance issues and how to handle them](https://blog.graphqleditor.com/GraphQL-Performance-issues-and-how-to-handle-them/)
 - [GraphQL Seems Like We Do Not Want to Do the Hard Work of API Design](https://dzone.com/articles/graphql-seems-like-we-do-not-want-to-do-the-hard-w)
+- [Five mistakes to avoid when getting started with GraphQL](https://blog.graphqleditor.com/Five-mistakes-to-avoid-when-getting-started-with-GraphQL/)
 
 ### GraphQL Caputo
 - https://graphql.org/learn/
