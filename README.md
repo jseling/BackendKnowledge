@@ -305,6 +305,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [GraphQL Performance issues and how to handle them](https://blog.graphqleditor.com/GraphQL-Performance-issues-and-how-to-handle-them/)
 - [GraphQL Seems Like We Do Not Want to Do the Hard Work of API Design](https://dzone.com/articles/graphql-seems-like-we-do-not-want-to-do-the-hard-w)
 - [Five mistakes to avoid when getting started with GraphQL](https://blog.graphqleditor.com/Five-mistakes-to-avoid-when-getting-started-with-GraphQL/)
+- [Netflix: Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 
 ### GraphQL Caputo
 - https://graphql.org/learn/
