@@ -1,6 +1,6 @@
 # BackendKnowledge
 
-Se você não consegue construir um monolito bem estruturado, por que acha que microserviços é a solução? - Simon Brown
+Se você não consegue construir um monolito bem estruturado, por que acha que microserviços são a solução? - Simon Brown
 
 
 ## Blogs & sites sources
