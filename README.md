@@ -1,5 +1,8 @@
 # BackendKnowledge
 
+Se você não consegue construir um monolito bem estruturado, porquê acha que microserviços é a solução? - Simon Brown
+
+
 ## Blogs & sites sources
 - [microservices.io -  Chris Richardson](https://microservices.io/)
 - [Okta](https://developer.okta.com/blog/)
@@ -83,6 +86,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Give Me Back My Monolith](http://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 - [Microservices: Stone Soup for the Enterprise](https://medium.com/capital-one-tech/microservices-stone-soup-for-the-enterprise-171789f4566b)
 - [Why Object Oriented Code Accelerates Microservices Adoption](http://mfadhel.com/object-oriented-microservices-migrations/)
+- [Enough with the microservices](https://adamdrake.com/enough-with-the-microservices.html)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
