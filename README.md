@@ -114,6 +114,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [IaaS/HaaS (Infrastructure as a service/Hardware as a Service)](https://pt.wikipedia.org/wiki/HaaS)
 - [Polilito/Polylith](https://polylith.gitbook.io/polylith/)
 
+## Pattern
+- [API Gateway pattern](https://microservices.io/patterns/apigateway.html)
+
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
 - https://www.theserverside.com/feature/The-right-language-for-microservice-orchestration-and-development
