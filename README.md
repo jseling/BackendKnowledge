@@ -220,6 +220,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How to Write Fast Services in C++](https://mahdytech.com/2018/12/23/fast-services-cpp/)
 
 ## Docker
+- [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
 - [So, You’re Saying Docker Isn’t A Virtual Machine???](https://derickbailey.com/2016/08/29/so-youre-saying-docker-isnt-a-virtual-machine/)
 - http://techfree.com.br/2016/03/porque-usar-docker/
 - http://techfree.com.br/2015/10/entendendo-o-docker-parte-1/
