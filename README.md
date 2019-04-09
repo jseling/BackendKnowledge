@@ -67,6 +67,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How microservices are changing the way we make applications](https://www.uruit.com/blog/microservices-architecture/)
 - [How Are Your Microservices Talking?](https://dzone.com/articles/how-are-your-microservices-talking)
 - [Monolithic vs. Microservices: Which Is the Better Architecture App Development?](https://dzone.com/articles/monolithic-vs-microservices-which-is-the-better-ar)
+- [Monolith vs Microservices: A tale from Python at “scale”.](https://medium.com/@jimjh/monolith-vs-microservices-a0322100160f)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
