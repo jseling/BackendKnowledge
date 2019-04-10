@@ -273,6 +273,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - https://softwareengineering.stackexchange.com/questions/290917/what-is-the-most-accepted-transaction-strategy-for-microservices
 - https://yos.io/2017/10/30/distributed-sagas/
 - [Transactions across REST microservices?](https://stackoverflow.com/questions/30213456/transactions-across-rest-microservices)
+- [Microservices and Distributed Transactions: LIXA and XTA](https://dzone.com/articles/microservices-and-distributed-transactions)
 
 ## Mensageria/Message broker
 - [Introdução ao RabbitMQ](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-rabbitmq-4bfba460ad03)
