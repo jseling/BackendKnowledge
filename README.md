@@ -354,3 +354,4 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [SQL - Apresentando Common Table Expression (CTE)](http://www.macoratti.net/13/05/sql_cte1.htm)
 - [How to Calculate a Cumulative Percentage in SQL](https://blog.jooq.org/2019/02/14/how-to-calculate-a-cumulative-percentage-in-sql/)
 - [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
+- [Simple Tips for PostgreSQL Query Optimization](https://cube.dev/blog/postgresql-query-optimization/)
