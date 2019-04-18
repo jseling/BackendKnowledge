@@ -301,6 +301,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [How (not) to store passwords](https://itnext.io/how-not-to-store-passwords-4955569e6e84)
 
 ## GraphQL
+- [GraphQL: Core Features, Architecture, Pros, and Cons](https://dzone.com/articles/graphql-core-features-architecture-pros-and-cons)
 - [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7)
 - [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d)
 - [Introduction to GraphQL](https://fullstack-developer.academy/introduction-to-graphql/)
