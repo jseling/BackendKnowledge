@@ -276,6 +276,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - https://yos.io/2017/10/30/distributed-sagas/
 - [Transactions across REST microservices?](https://stackoverflow.com/questions/30213456/transactions-across-rest-microservices)
 - [Microservices and Distributed Transactions: LIXA and XTA](https://dzone.com/articles/microservices-and-distributed-transactions)
+- [Distributed Transactions and Microservices Still Don't Mix](https://dzone.com/articles/distributed-transactions-and-microservices-still-d)
 
 ## Mensageria/Message broker
 - [Introdução ao RabbitMQ](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-rabbitmq-4bfba460ad03)
@@ -299,6 +300,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Learn how to use JSON Web Tokens (JWT) for much Authentication win!](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
 - [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
 - [How (not) to store passwords](https://itnext.io/how-not-to-store-passwords-4955569e6e84)
+- [Authentication & authorization in microservice architecture](https://ayende.com/blog/186915-A/authentication-authorization-in-microservice-architecture)
 
 ## GraphQL
 - [GraphQL: Core Features, Architecture, Pros, and Cons](https://dzone.com/articles/graphql-core-features-architecture-pros-and-cons)
