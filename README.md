@@ -333,6 +333,8 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - https://github.com/graphql-dotnet/examples
 - https://developer.github.com/v4/explorer/
 
+## Monitoring
+- [O que é Application Performance Management?](https://guilhermeteles.com.br/o-que-e-application-performance-management/)
 
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
@@ -349,9 +351,6 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [6 not so obvious things about Elasticsearch](https://blog.softwaremill.com/6-not-so-obvious-things-about-elasticsearch-422491494aa4)
 - [Tuning Fluentd: Retries — Avoiding Duplicate Documents in Elasticsearch](https://medium.com/redbox-techblog/tuning-fluentd-retries-avoiding-duplicate-documents-in-elasticsearch-e7cb9630a453)
 
-## Machine Learning
-- [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
-
 ## Databases
 - [SQLite in 2018: A state of the art SQL dialect](https://modern-sql.com/blog/2019-01/sqlite-in-2018)
 - [Life of a SQL query](https://numeracy.co/blog/life-of-a-sql-query)
@@ -359,3 +358,6 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [How to Calculate a Cumulative Percentage in SQL](https://blog.jooq.org/2019/02/14/how-to-calculate-a-cumulative-percentage-in-sql/)
 - [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 - [Simple Tips for PostgreSQL Query Optimization](https://cube.dev/blog/postgresql-query-optimization/)
+
+## Machine Learning
+- [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
