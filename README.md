@@ -224,6 +224,10 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Spawning Your First C++ Fleet with Service Fabric and REST SDK](https://mahdytech.com/2019/02/04/spawning-first-restful-c-fleet-with-service-fabric-rest-sdk/)
 - [How to Write Fast Services in C++](https://mahdytech.com/2018/12/23/fast-services-cpp/)
 
+## Rust
+- [Building high performance REST APIs with Rust and Rocket](https://github.com/sebasmagri/rocket-loadavg-api/blob/master/README.md)
+- [Rocket is a web framework for Rust](https://rocket.rs/v0.4/overview/)
+
 ## Docker
 - [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
 - [So, You’re Saying Docker Isn’t A Virtual Machine???](https://derickbailey.com/2016/08/29/so-youre-saying-docker-isnt-a-virtual-machine/)
