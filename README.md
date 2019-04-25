@@ -90,6 +90,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Microservices: Stone Soup for the Enterprise](https://medium.com/capital-one-tech/microservices-stone-soup-for-the-enterprise-171789f4566b)
 - [Why Object Oriented Code Accelerates Microservices Adoption](http://mfadhel.com/object-oriented-microservices-migrations/)
 - [Enough with the microservices](https://adamdrake.com/enough-with-the-microservices.html)
+- [Thoughts on Microservices, Part 3, Throw Away Ware](https://dzone.com/articles/thoughts-on-microservices-part-3-throwawayware)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
