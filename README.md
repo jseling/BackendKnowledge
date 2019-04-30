@@ -363,6 +363,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [How to Calculate a Cumulative Percentage in SQL](https://blog.jooq.org/2019/02/14/how-to-calculate-a-cumulative-percentage-in-sql/)
 - [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 - [Simple Tips for PostgreSQL Query Optimization](https://cube.dev/blog/postgresql-query-optimization/)
+- [Use RETURNING Clause to Avoid Unnecessary SQL Statements](https://dzone.com/articles/use-returning-clause-to-avoid-unnecessary-sql-stat)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
