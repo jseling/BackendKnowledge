@@ -307,6 +307,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
 - [How (not) to store passwords](https://itnext.io/how-not-to-store-passwords-4955569e6e84)
 - [Authentication & authorization in microservice architecture](https://ayende.com/blog/186915-A/authentication-authorization-in-microservice-architecture)
+- [How JSON Web Token (JWT) Secures Your API](https://dzone.com/articles/how-json-web-token-jwt-secures-your-api)
 
 ## GraphQL
 - [GraphQL: Core Features, Architecture, Pros, and Cons](https://dzone.com/articles/graphql-core-features-architecture-pros-and-cons)
