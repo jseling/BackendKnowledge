@@ -231,6 +231,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 ## Docker
 - [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
 - [So, You’re Saying Docker Isn’t A Virtual Machine???](https://derickbailey.com/2016/08/29/so-youre-saying-docker-isnt-a-virtual-machine/)
+- [Container misconceptions](https://blog.bejarano.io/container-misconceptions.html)
 - http://techfree.com.br/2016/03/porque-usar-docker/
 - http://techfree.com.br/2015/10/entendendo-o-docker-parte-1/
 - http://techfree.com.br/2015/11/container-vs-maquina-virtual/
