@@ -368,6 +368,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Data architecture vs backend architecture](https://erikbern.com/2019/01/10/data-architecture-vs-backend-architecture.html)
 - [Simple Tips for PostgreSQL Query Optimization](https://cube.dev/blog/postgresql-query-optimization/)
 - [Use RETURNING Clause to Avoid Unnecessary SQL Statements](https://dzone.com/articles/use-returning-clause-to-avoid-unnecessary-sql-stat)
+- [A tale of Query Optimization](https://parallelthoughts.xyz/2019/05/a-tale-of-query-optimization/)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
