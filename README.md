@@ -176,6 +176,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [What languages can be compiled to WebAssembly (or wasm)?](https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-webassembly-or-wasm/43585437#43585437)
+- [Rust and WebAssembly](https://rustwasm.github.io/book/introduction.html)
 
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
