@@ -4,6 +4,8 @@ Se você não consegue construir um monolito bem estruturado, por que acha que m
 
 
 ## Blogs & sites sources
+- [katacoda: Learn new technologies using real environments
+right in your browser](https://www.katacoda.com/)
 - [microservices.io -  Chris Richardson](https://microservices.io/)
 - [Okta](https://developer.okta.com/blog/)
 - :clapper:[JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
