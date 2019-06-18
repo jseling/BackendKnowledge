@@ -295,6 +295,9 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Microservices and Distributed Transactions: LIXA and XTA](https://dzone.com/articles/microservices-and-distributed-transactions)
 - [Distributed Transactions and Microservices Still Don't Mix](https://dzone.com/articles/distributed-transactions-and-microservices-still-d)
 
+## SSE - Server Sent Events
+- [Server-Sent Events (SSE): A conceptual deep dive](https://www.ably.io/concepts/server-sent-events)
+
 ## Mensageria/Message broker
 - [Introdução ao RabbitMQ](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-rabbitmq-4bfba460ad03)
 - [What Is RabbitMQ? What Does It Do For Me?](https://derickbailey.com/2016/10/12/what-is-rabbitmq-what-does-it-do-for-me/)
