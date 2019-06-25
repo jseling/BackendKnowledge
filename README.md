@@ -173,6 +173,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Building Microservices On .NET Core – Part 4 Building API Gateways With Ocelot](https://altkomsoftware.pl/en/blog/building-api-gateways-with-ocelot/)
 - [Building Microservices On .NET Core – Part 5 Marten An Ideal Repository For Your Domain Aggregates](https://altkomsoftware.pl/en/blog/building-microservices-domain-aggregates/)
 - [.NET Core Image Processing](https://devblogs.microsoft.com/dotnet/net-core-image-processing/)
+- [Não cometa esses erros ao utilizar o Entity Framework](https://imasters.com.br/back-end/nao-cometa-esses-erros-ao-utilizar-o-entity-framework)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
