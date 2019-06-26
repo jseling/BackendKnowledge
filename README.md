@@ -94,6 +94,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Enough with the microservices](https://adamdrake.com/enough-with-the-microservices.html)
 - [Thoughts on Microservices, Part 3, Throw Away Ware](https://dzone.com/articles/thoughts-on-microservices-part-3-throwawayware)
 - [Seer: leveraging big data to navigate the complexity of performance debugging in cloud microservices](https://blog.acolyer.org/2019/05/15/seer/)
+- [Anti-patterns of Web API’s](https://itnext.io/anti-patterns-of-web-apis-33d2a28534f2)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
