@@ -270,6 +270,8 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Conquering Statefulness on Kubernetes](https://medium.com/capital-one-tech/conquering-statefulness-on-kubernetes-26336d5f4f17)
 
 ## Frontend
+- [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
+- [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
 - https://tylermcginnis.com/react-interview-questions/
 - https://hakaselogs.me/2017-12-05/react-native-vs-ionic
 - https://hakaselogs.me/2017-09-11/learning-react-day-1
