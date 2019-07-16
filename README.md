@@ -175,6 +175,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Building Microservices On .NET Core – Part 5 Marten An Ideal Repository For Your Domain Aggregates](https://altkomsoftware.pl/en/blog/building-microservices-domain-aggregates/)
 - [.NET Core Image Processing](https://devblogs.microsoft.com/dotnet/net-core-image-processing/)
 - [Não cometa esses erros ao utilizar o Entity Framework](https://imasters.com.br/back-end/nao-cometa-esses-erros-ao-utilizar-o-entity-framework)
+- [.NET Core 2.2 + ASP.NET Core 2.2 + RabbitMQ: exemplos utilizando mensageria](https://medium.com/@renato.groffe/net-core-2-2-asp-net-core-2-2-rabbitmq-exemplos-utilizando-mensageria-deb54ce63713)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
