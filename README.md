@@ -32,9 +32,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Microservices, Containers and Kubernetes in 10 minutes](https://gravitational.com/blog/microservices-containers-kubernetes/)
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Serverless Architectures](https://martinfowler.com/articles/serverless.html)
-- https://www.infoq.com/br/articles/microservices-intro
-- https://microservices.io/patterns/microservices.html
-- https://martinfowler.com/articles/microservice-trade-offs.html
+- [Microservices: Decomposição de Aplicações para Implantação e Escalabilidade](https://www.infoq.com/br/articles/microservices-intro)
+- [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
+- [Martin Fowler: Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)
 - [As 6 melhores práticas para arquiteturas baseadas em microservices](https://imasters.com.br/back-end/6-melhores-praticas-para-arquiteturas-baseadas-em-microservices)
 - https://pragmaticcoders.com/blog/microservice%E2%80%91architecture-patterns/
 - https://medium.com/systems-architectures/walking-the-microservices-path-towards-loose-coupling-few-pitfalls-4067bf5e497a
