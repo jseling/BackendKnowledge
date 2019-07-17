@@ -125,6 +125,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 
 ## Pattern
 - [API Gateway pattern](https://microservices.io/patterns/apigateway.html)
+- [IDEMPOTENT CONSUMER PATTERN](https://pradeeploganathan.com/patterns/idempotent-consumer-pattern/)
 
 ### Languages
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
