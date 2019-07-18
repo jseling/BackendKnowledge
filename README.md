@@ -322,6 +322,9 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [MESSAGING PATTERNS TO KNOW IN MICROSERVICES – PART I](https://www.schibsted.pl/blog/back-end/messaging-patterns-microservices-part-1/)
 - [Riot messaging service](https://engineering.riotgames.com/news/riot-messaging-service)
 
+## Web Security
+- [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
+
 ## Autentication
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
 - [Learn how to use JSON Web Tokens (JWT) for much Authentication win!](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
