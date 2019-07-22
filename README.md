@@ -271,6 +271,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Conquering Statefulness on Kubernetes](https://medium.com/capital-one-tech/conquering-statefulness-on-kubernetes-26336d5f4f17)
 
 ## Frontend
+- [O que o mercado de Front-End espera de você?](https://www.linkedin.com/pulse/o-que-mercado-de-front-end-espera-voc%25C3%25AA-daniel-xavier)
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
 - [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
 - https://tylermcginnis.com/react-interview-questions/
