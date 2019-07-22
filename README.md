@@ -8,8 +8,7 @@ Se você não consegue construir um monolito bem estruturado, por que acha que m
 right in your browser](https://www.katacoda.com/)
 - [microservices.io -  Chris Richardson](https://microservices.io/)
 - [Okta](https://developer.okta.com/blog/)
-- :clapper:[JavaScript](https://rocketseat.com.br/videos/curso-javascript-basico-do-zero?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_basico#1/1)
-- :clapper:[ES6+](https://rocketseat.com.br/videos/curso-javascript-es6?utm_source=mautic&utm_medium=funil&utm_campaign=curso_javascript_es6#1/1)
+- :clapper:[Cursos Rocketseat](https://station.rocketseat.com.br/courses/starter)
 - [Docker - Qual a melhor maneira para se trabalhar](https://github.com/backend-br/forum/issues/53)
 - [Scrimba is a powerful new way of learning code. ](https://scrimba.com/)
 
