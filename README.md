@@ -110,6 +110,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 - [Nivelando sua Rest API](https://www.infoq.com/br/articles/nivelando-sua-rest-api)
 - [HATEOAS REST Services With Spring](https://dzone.com/articles/hypermedia-driven-rest-services-with-spring-hateoa)
+- [REST: Defining a Resource](https://dzone.com/articles/rest-defining-a-resource)
 
 ### Architecture
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
