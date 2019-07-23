@@ -336,6 +336,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 
 ## GraphQL
+- [Introduction to GraphQL](https://graphql.org/learn/)
 - [GraphQL: Core Features, Architecture, Pros, and Cons](https://dzone.com/articles/graphql-core-features-architecture-pros-and-cons)
 - [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7)
 - [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d)
@@ -359,7 +360,6 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Netflix: Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 
 ### GraphQL Caputo
-- https://graphql.org/learn/
 - https://lucasconstantino.github.io/graphiql-online/
 - https://github.com/graphql-dotnet/graphql-dotnet
 - https://github.com/graphql-dotnet/examples
