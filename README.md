@@ -35,7 +35,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Pattern: Microservice Architecture](https://microservices.io/patterns/microservices.html)
 - [Martin Fowler: Microservice Trade-Offs](https://martinfowler.com/articles/microservice-trade-offs.html)
 - [As 6 melhores práticas para arquiteturas baseadas em microservices](https://imasters.com.br/back-end/6-melhores-praticas-para-arquiteturas-baseadas-em-microservices)
-- https://pragmaticcoders.com/blog/microservice%E2%80%91architecture-patterns/
+- [MICROSERVICE‑ORIENTED ARCHITECTURE PATTERNS](https://pragmaticcoders.com/blog/microservice%E2%80%91architecture-patterns/)
 - https://medium.com/systems-architectures/walking-the-microservices-path-towards-loose-coupling-few-pitfalls-4067bf5e497a
 - https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
 - http://blog.caelum.com.br/revisitando-a-batalha-spring-x-java-ee-em-detalhes/
