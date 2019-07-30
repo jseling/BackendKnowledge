@@ -338,6 +338,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
+- [GraphQL Editor](https://app.graphqleditor.com/?visibleMenu=code)
 - [GraphQL: Core Features, Architecture, Pros, and Cons](https://dzone.com/articles/graphql-core-features-architecture-pros-and-cons)
 - [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7)
 - [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d)
@@ -352,7 +353,6 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Building a GraphQL API By Example: Restaurant Reviews (part 4 — geospatial search)](https://medium.com/open-graphql/building-a-graphql-api-by-example-restaurant-reviews-part-4-geospatial-search-e0e0d9dc0329)
 - [How to use Postman with GraphQL APIs](https://www.codetraveler.io/2019/01/12/how-to-use-postman-with-a-graphql-api/)
 - [Image management via GraphQL](https://fullstack-developer.academy/image-management-via-graphql/)
-- [GraphQL Editor](https://app.graphqleditor.com/)
 - [Sharing data in a Microservices Architecture using GraphQL](https://labs.getninjas.com.br/sharing-data-in-a-microservices-architecture-using-graphql-97db59357602)
 - [GraphQL in a Micro Services Architecture](https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb)
 - [GraphQL Performance issues and how to handle them](https://blog.graphqleditor.com/GraphQL-Performance-issues-and-how-to-handle-them/)
