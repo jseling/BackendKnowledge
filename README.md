@@ -277,7 +277,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [O que o mercado de Front-End espera de você?](https://www.linkedin.com/pulse/o-que-mercado-de-front-end-espera-voc%25C3%25AA-daniel-xavier)
 - [Tutorial: Introdução ao React](https://pt-br.reactjs.org/tutorial/tutorial.html)
 - [Passo a passo: Introdução ao React](https://pt-br.reactjs.org/docs/hello-world.html)
-- https://tylermcginnis.com/react-interview-questions/
+- [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 - https://hakaselogs.me/2017-12-05/react-native-vs-ionic
 - https://hakaselogs.me/2017-09-11/learning-react-day-1
 - https://hakaselogs.me/2017-09-12/learning-react-day-2
