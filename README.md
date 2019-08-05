@@ -243,6 +243,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 ## Rust
 - [Building high performance REST APIs with Rust and Rocket](https://github.com/sebasmagri/rocket-loadavg-api/blob/master/README.md)
 - [Rocket is a web framework for Rust](https://rocket.rs/v0.4/overview/)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
 
 ## Docker
 - [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
