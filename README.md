@@ -181,6 +181,8 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
+- [Map, Filter and Reduce – Animated](https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47)
+- [Minecraft Clone: ThreeJS, ReactJS, GraphQL and NodeJS](https://github.com/ian13456/mc.js)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
