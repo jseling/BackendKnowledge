@@ -341,6 +341,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Authentication & authorization in microservice architecture](https://ayende.com/blog/186915-A/authentication-authorization-in-microservice-architecture)
 - [How JSON Web Token (JWT) Secures Your API](https://dzone.com/articles/how-json-web-token-jwt-secures-your-api)
 - [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+- [Why JWTs Suck as Session Tokens](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
