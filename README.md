@@ -299,6 +299,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [don’t get clever with login forms](http://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
 - [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
+- [CSS: The Programmer’s Guide to the Stylesheet](https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
@@ -401,6 +402,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Simple Tips for PostgreSQL Query Optimization](https://cube.dev/blog/postgresql-query-optimization/)
 - [Use RETURNING Clause to Avoid Unnecessary SQL Statements](https://dzone.com/articles/use-returning-clause-to-avoid-unnecessary-sql-stat)
 - [A tale of Query Optimization](https://parallelthoughts.xyz/2019/05/a-tale-of-query-optimization/)
+- [1 Year of Event Sourcing and CQRS](https://hackernoon.com/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
