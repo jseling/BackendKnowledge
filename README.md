@@ -37,7 +37,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [As 6 melhores práticas para arquiteturas baseadas em microservices](https://imasters.com.br/back-end/6-melhores-praticas-para-arquiteturas-baseadas-em-microservices)
 - [MICROSERVICE‑ORIENTED ARCHITECTURE PATTERNS](https://pragmaticcoders.com/blog/microservice%E2%80%91architecture-patterns/)
 - [Walking the wire: Mastering the Four Decisions in Microservices Architecture](https://medium.com/systems-architectures/walking-the-microservices-path-towards-loose-coupling-few-pitfalls-4067bf5e497a)
-- https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/
+- [A Beginner’s Guide to Back-End Development](https://www.upwork.com/hiring/development/a-beginners-guide-to-back-end-development/)
 - http://blog.caelum.com.br/revisitando-a-batalha-spring-x-java-ee-em-detalhes/
 - https://medium.com/netflix-techblog/embracing-the-differences-inside-the-netflix-api-redesign-15fd8b3dc49d
 - https://medium.com/netflix-techblog/netflix-likes-react-509675426db
