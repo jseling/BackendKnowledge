@@ -335,7 +335,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 ## Web Security
 - [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
 
-## Autentication
+## Autentication and Authorization
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
 - [Learn how to use JSON Web Tokens (JWT) for much Authentication win!](https://github.com/dwyl/learn-json-web-tokens/blob/master/README.md)
 - [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
@@ -344,6 +344,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [How JSON Web Token (JWT) Secures Your API](https://dzone.com/articles/how-json-web-token-jwt-secures-your-api)
 - [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 - [Why JWTs Suck as Session Tokens](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
+- [Steps to building authentication and authorization for RESTful APIs](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/#)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
