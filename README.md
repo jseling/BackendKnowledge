@@ -187,6 +187,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Minecraft Clone: ThreeJS, ReactJS, GraphQL and NodeJS](https://github.com/ian13456/mc.js)
 - [Why is modern web development so complicated? A long yet hasty explanation: Part 1!](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
+- [Practical Ways to Write Better JavaScript](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
