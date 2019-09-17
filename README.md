@@ -251,6 +251,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Building high performance REST APIs with Rust and Rocket](https://github.com/sebasmagri/rocket-loadavg-api/blob/master/README.md)
 - [Rocket is a web framework for Rust](https://rocket.rs/v0.4/overview/)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
+- [The Rust Programming Language](https://doc.rust-lang.org/book/index.html)
+- [Object-Orientation in Rust](https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html)
 
 ## Docker
 - [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
