@@ -410,7 +410,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Use RETURNING Clause to Avoid Unnecessary SQL Statements](https://dzone.com/articles/use-returning-clause-to-avoid-unnecessary-sql-stat)
 - [A tale of Query Optimization](https://parallelthoughts.xyz/2019/05/a-tale-of-query-optimization/)
 - [1 Year of Event Sourcing and CQRS](https://hackernoon.com/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
-- [What’s Faster? COUNT(/N*) or COUNT(1)?](https://blog.jooq.org/2019/09/19/whats-faster-count-or-count1/)
+- [What’s Faster? COUNT(*) or COUNT(1)?](https://blog.jooq.org/2019/09/19/whats-faster-count-or-count1/)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
