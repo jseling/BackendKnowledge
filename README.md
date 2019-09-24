@@ -411,6 +411,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [A tale of Query Optimization](https://parallelthoughts.xyz/2019/05/a-tale-of-query-optimization/)
 - [1 Year of Event Sourcing and CQRS](https://hackernoon.com/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
 - [What’s Faster? COUNT(*) or COUNT(1)?](https://blog.jooq.org/2019/09/19/whats-faster-count-or-count1/)
+- [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
