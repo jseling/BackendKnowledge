@@ -309,6 +309,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Taming the front-end monolith](https://blog.logrocket.com/taming-the-front-end-monolith-dbaede402c39)
 - [UI in Microservices World – Micro Frontends pattern and Web Components](https://altkomsoftware.pl/en/blog/ui-in-microservices-world/)
 - [CSS: The Programmer’s Guide to the Stylesheet](https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429)
+- [What Are 7 Principles Of Design?](https://codersera.com/blog/what-are-7-principles-of-design/)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
