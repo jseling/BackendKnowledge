@@ -215,6 +215,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 ## Cache
 - [Consistency between Redis Cache and SQL Database](https://www.pixelstech.net/article/1562504974-Consistency-between-Redis-Cache-and-SQL-Database)
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
+- [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 
 ## Java Spring Boot
 - :clapper:[Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/watch?v=R-F-UcDo_5I&list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
