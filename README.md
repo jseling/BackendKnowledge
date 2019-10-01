@@ -380,6 +380,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Five mistakes to avoid when getting started with GraphQL](https://blog.graphqleditor.com/Five-mistakes-to-avoid-when-getting-started-with-GraphQL/)
 - [Netflix: Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 - [What is GraphQL and How Did It Evolve From REST and Other API Technologies?](https://www.programmableweb.com/news/what-graphql-and-how-did-it-evolve-rest-and-other-api-technologies/analysis/2019/07/31)
+- [REST API best practice in a GraphQL world](https://swizec.com/blog/rest-api-best-practice-in-a-graphql-world/swizec/9210)
 
 ### GraphQL Caputo
 - https://lucasconstantino.github.io/graphiql-online/
