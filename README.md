@@ -312,6 +312,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [CSS: The Programmer’s Guide to the Stylesheet](https://blog.prototypr.io/the-programmers-guide-to-the-stylesheet-13f2dce47429)
 - [What Are 7 Principles Of Design?](https://codersera.com/blog/what-are-7-principles-of-design/)
 - [A free guide to HTML5 <head> elements](https://htmlhead.dev/)
+- [don’t get clever with login forms](https://bradfrost.com/blog/post/dont-get-clever-with-login-forms/)
 
 ## Transactions
 - https://www.baeldung.com/transactions-across-microservices
