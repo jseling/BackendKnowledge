@@ -183,6 +183,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Não cometa esses erros ao utilizar o Entity Framework](https://imasters.com.br/back-end/nao-cometa-esses-erros-ao-utilizar-o-entity-framework)
 - [.NET Core 2.2 + ASP.NET Core 2.2 + RabbitMQ: exemplos utilizando mensageria](https://medium.com/@renato.groffe/net-core-2-2-asp-net-core-2-2-rabbitmq-exemplos-utilizando-mensageria-deb54ce63713)
 - [O modelo de programação assíncrono Task em C#](https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/concepts/async/)
+- [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josefottosson.se/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
 
 ## JavaScript
 - https://hakaselogs.me/2017-08-02/show-me-async-await-like-am-5
@@ -191,6 +192,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Why is modern web development so complicated? A long yet hasty explanation: Part 1!](https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/)
 - [How to learn D3.js](https://wattenberger.com/blog/d3)
 - [Practical Ways to Write Better JavaScript](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
+- [15 Common JavaScript Questions](https://blog.soshace.com/en/javascript/15-common-javascript-questions/)
 
 ## WebAssembly
 - [Writing WebAssembly By Hand](https://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
