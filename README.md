@@ -232,6 +232,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 
 ## Clojure
 - [Why you should use Clojure for your next microservice](https://developer.atlassian.com/blog/2016/03/why-clojure/)
+- [Love Letter To Clojure (Part 1)](https://itrevolution.com/love-letter-to-clojure-part-1/)
 
 ## C++
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
