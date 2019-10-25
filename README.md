@@ -13,6 +13,7 @@ right in your browser](https://www.katacoda.com/)
 - [Scrimba is a powerful new way of learning code. ](https://scrimba.com/)
 
 ## Free Ebooks
+- [Everything curl](https://ec.haxx.se/)
 - [Decomposing a monolithic app into multiple microservices](https://resources.codeship.com/ebooks/breaking-up-monolith-into-microservices?hsCtaTracking=06b99bf1-b74a-4226-884d-6a0caaaac97c%7C33f166b2-6c4b-40fb-bc7d-63c523f91fea)
 - [Docker for Windows, Linux and Mac](https://resources.codeship.com/ebooks/docker-windows-linux-mac)
 - [Understanding the Docker Ecosystem](https://resources.codeship.com/ebooks/docker-ecosystem?hsCtaTracking=7cc4c3c0-247b-40c2-8f1d-01f387a44c81%7Ceb8e001b-f02d-489e-aa0e-2f2a237d196f)
