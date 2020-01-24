@@ -255,6 +255,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 - [Introduction to async-std](https://book.async.rs/)
 - :star:[What is Rust and why is it so popular?](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/)
+- [Rust Lang in a nutshell: 1# Introduction](https://www.softax.pl/blog/rust-lang-in-a-nutshell-1-introduction/)
 
 ## Docker
 - [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
