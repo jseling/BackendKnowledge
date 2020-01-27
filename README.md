@@ -330,6 +330,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 - [Why JWTs Suck as Session Tokens](https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens)
 - [Steps to building authentication and authorization for RESTful APIs](https://www.moesif.com/blog/technical/restful-apis/Authorization-on-RESTful-APIs/#)
+- [What is JSON Web Token Authentication?](https://medium.com/@zenghoulim/what-is-json-web-token-authentication-a2962f8c5267)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
