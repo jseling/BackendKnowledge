@@ -301,6 +301,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Server-Sent Events (SSE): A conceptual deep dive](https://www.ably.io/concepts/server-sent-events)
 
 ## HTTP
+- [Series of posts on HTTP status codes](https://evertpot.com/http/)
 - [Performance testing HTTP/1.1 vs HTTP/2 vs HTTP/2 + Server Push for REST APIs](https://evertpot.com/h2-parallelism/)
 
 ## Mensageria/Message broker
