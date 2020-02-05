@@ -130,7 +130,9 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 
 ## Pattern
 - [API Gateway pattern](https://microservices.io/patterns/apigateway.html)
+- [What is an API Gateway?](https://www.bearer.sh/blog/what-is-an-api-gateway)
 - [IDEMPOTENT CONSUMER PATTERN](https://pradeeploganathan.com/patterns/idempotent-consumer-pattern/)
+
 
 ### Async
 - [Patterns for Asynchronous Operations with async](https://careersjs.com/magazine/async-patterns/)
