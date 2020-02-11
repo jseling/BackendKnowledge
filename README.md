@@ -127,6 +127,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [IaaS/HaaS (Infrastructure as a service/Hardware as a Service)](https://pt.wikipedia.org/wiki/HaaS)
 - [Polilito/Polylith](https://polylith.gitbook.io/polylith/)
 - [API vs. Microservices: A Microservice Is More Than Just an API](https://dzone.com/articles/api-vs-microservices-a-microservice-is-more-than-j)
+- [5 Simple Rules for CRUD Operations](https://dzone.com/articles/5-simples-rules-for-crud-operations)
 
 ## Pattern
 - [API Gateway pattern](https://microservices.io/patterns/apigateway.html)
