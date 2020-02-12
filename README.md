@@ -302,6 +302,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 
 ## SSE - Server Sent Events
 - [Server-Sent Events (SSE): A conceptual deep dive](https://www.ably.io/concepts/server-sent-events)
+- [WebSockets vs Server-Sent Events](https://www.ably.io/blog/websockets-vs-sse/)
 
 ## HTTP
 - [Series of posts on HTTP status codes](https://evertpot.com/http/)
