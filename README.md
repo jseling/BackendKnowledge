@@ -97,6 +97,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Seer: leveraging big data to navigate the complexity of performance debugging in cloud microservices](https://blog.acolyer.org/2019/05/15/seer/)
 - [Anti-patterns of Web API’s](https://itnext.io/anti-patterns-of-web-apis-33d2a28534f2)
 - [Faster, cheaper, and better: A story of breaking a monolith](https://zepworks.com/posts/faster-better-cheaper-and-re-architecture/)
+- [Fault Tolerance Web Architecture for Our Cloud Solutions](https://habr.com/en/company/mailru/blog/489896/)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
@@ -373,8 +374,9 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - https://github.com/graphql-dotnet/examples
 - https://developer.github.com/v4/explorer/
 
-## Monitoring
+## (Real Time) Monitoring & Analytics
 - [O que é Application Performance Management?](https://guilhermeteles.com.br/o-que-e-application-performance-management/)
+- [How to collect analytics and not kill performance](https://habr.com/en/post/489090/)
 
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
