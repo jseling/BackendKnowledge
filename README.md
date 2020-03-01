@@ -411,6 +411,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Comparing Database Types: How Database Types Evolved to Meet Different Needs](https://www.prisma.io/blog/comparison-of-database-models-1iz9u29nwn37)
 - [SQL queries don't start with SELECT](https://jvns.ca/blog/2019/10/03/sql-queries-don-t-start-with-select/)
 - [Opinion: 12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)
+- [Using CTEs to Improve SQL Queries](https://towardsdatascience.com/using-ctes-to-improve-sql-queries-dfcb04b7edf0)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
