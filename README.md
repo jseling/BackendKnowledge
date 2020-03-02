@@ -283,6 +283,8 @@ Part 2: A Delicious Dozen Docker Terms You Need to Know](https://towardsdatascie
 - [Learn Enough Docker to be Useful
 Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5)
 - [Docker + Hyper-V (Windows 10)](https://gist.github.com/filipegorges/51af4fd1791eca688c6ace666a20b7c4)
+- [The Docker Quickstart Guide for Developers](https://ao.gl/the-docker-quickstart-guide-for-developers/)
+
 
 ## Kubernetes
 - [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
