@@ -383,6 +383,9 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - https://github.com/graphql-dotnet/examples
 - https://developer.github.com/v4/explorer/
 
+## Apollo
+- [GraphQL Resolvers in Apollo](https://medium.com/@johnclarke_82232/graphql-resolvers-in-apollo-cf64d404376f)
+
 ## (Real Time) Monitoring & Analytics
 - [O que é Application Performance Management?](https://guilhermeteles.com.br/o-que-e-application-performance-management/)
 - [How to collect analytics and not kill performance](https://habr.com/en/post/489090/)
