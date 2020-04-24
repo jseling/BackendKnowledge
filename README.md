@@ -208,6 +208,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Why I Use NodeJS for Basically Everything I Do.](https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc)
 - [16 year old author: Get Started With Node: An Introduction To APIs, HTTP And ES6+ JavaScript](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/)
 - [How To Build Simple Node.js Rest APIs with Express, Sequelize & MySQL](https://christosploutarchou.com/how-to-build-simple-node-js-rest-api/)
+- [How to implement a Node.js CRUD API — (without Express)](https://medium.com/@gftf2011/this-tutorial-will-dive-in-the-node-js-b4c1d6f94fab)
 
 ## Cache
 - [Consistency between Redis Cache and SQL Database](https://www.pixelstech.net/article/1562504974-Consistency-between-Redis-Cache-and-SQL-Database)
