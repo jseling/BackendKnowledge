@@ -25,6 +25,7 @@ right in your browser](https://www.katacoda.com/)
 ## Concepts
 - [Martin Fowler: Microservices
 a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
+- :star:[Pragmatic Microservices](https://medium.com/microservices-in-practice/microservices-in-practice-7a3e85b6624c)
 - :star:[Microsserviços Pragmáticos](https://www.opus-software.com.br/microsservicos-pragmaticos/)
 - [Tradução: Microsserviços, por Martin Fowler e James Lewis](http://www.pedromendes.com.br/2016/01/02/microservicos/)
 - [Resumo: Microsserviços em poucas palavras](https://www.thoughtworks.com/pt/insights/blog/microservices-nutshell) 
