@@ -255,6 +255,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Spawning Your First C++ Fleet with Service Fabric and REST SDK](https://mahdytech.com/2019/02/04/spawning-first-restful-c-fleet-with-service-fabric-rest-sdk/)
 - [How to Write Fast Services in C++](https://mahdytech.com/2018/12/23/fast-services-cpp/)
 - [C++ Is Faster and Safer Than Rust: Benchmarked by Yandex](https://www.viva64.com/en/b/0733/)
+- [Usando cmake para compilar c/c++](https://medium.com/aprendacpp/usando-cmake-para-compilar-c-c-abf52c7dcbc8)
 
 ## Rust
 - [Building high performance REST APIs with Rust and Rocket](https://github.com/sebasmagri/rocket-loadavg-api/blob/master/README.md)
