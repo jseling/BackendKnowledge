@@ -398,6 +398,9 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [O que é Application Performance Management?](https://guilhermeteles.com.br/o-que-e-application-performance-management/)
 - [How to collect analytics and not kill performance](https://habr.com/en/post/489090/)
 
+## Load test
+- [A Practical Guide to Load Testing](https://www.freecodecamp.org/news/practical-guide-to-load-testing/)
+
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
 - [Elasticsearch by Example: Part 1](https://codeburst.io/elasticsearch-by-example-part-1-a4a38cd97f55)
