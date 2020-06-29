@@ -120,6 +120,8 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [HATEOAS REST Services With Spring](https://dzone.com/articles/hypermedia-driven-rest-services-with-spring-hateoa)
 - [REST: Defining a Resource](https://dzone.com/articles/rest-defining-a-resource)
 - [Representing State in REST and GraphQL](https://apisyouwonthate.com/blog/representing-state-in-rest-and-graphql)
+- [RESTful API Design — Step By Step Guide](https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
+- [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
 
 ### Architecture
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
