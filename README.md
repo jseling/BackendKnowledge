@@ -219,6 +219,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Consistency between Redis Cache and SQL Database](https://www.pixelstech.net/article/1562504974-Consistency-between-Redis-Cache-and-SQL-Database)
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
+- [Redis server-assisted client side caching](https://redis.io/topics/client-side-caching)
 
 ## Java Spring Boot
 - [Apresentação Andre Justi](https://pt.slideshare.net/AndrJusti/presentations)
