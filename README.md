@@ -277,6 +277,11 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [My exploration of Rust and .NET](https://ericsink.com/entries/dotnet_rust.html)
 - [How I Start: Rust](https://christine.website/blog/how-i-start-rust-2020-03-15)
 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide/01_introduction.html)
+- [Rust is good for web, but not to use yet. I/O Bound](https://stu2b50.dev/posts/rust-is-surpris76171)
+- [1-Rust for JavaScript Developers - Tooling Ecosystem Overview](http://www.sheshbabu.com/posts/rust-for-javascript-developers-tooling-ecosystem-overview/)
+- [2-Rust for JavaScript Developers - Variables and Data Types](http://www.sheshbabu.com/posts/rust-for-javascript-developers-variables-and-data-types/)
+- [3-Rust for JavaScript Developers - Functions and Control Flow](http://www.sheshbabu.com/posts/rust-for-javascript-developers-functions-and-control-flow/)
+- [4-Rust for JavaScript Developers - Pattern Matching and Enums](http://www.sheshbabu.com/posts/rust-for-javascript-developers-pattern-matching-and-enums/)
 
 ## Docker
 - [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
