@@ -284,7 +284,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [4-Rust for JavaScript Developers - Pattern Matching and Enums](http://www.sheshbabu.com/posts/rust-for-javascript-developers-pattern-matching-and-enums/)
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
-
+- [Welcome to the Tour of Rust](https://tourofrust.com/)
 
 ## Docker
 - :star:[The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
