@@ -449,6 +449,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Opinion: 12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)
 - [Using CTEs to Improve SQL Queries](https://towardsdatascience.com/using-ctes-to-improve-sql-queries-dfcb04b7edf0)
 - [Choosing the Right Database for Your Applications](https://dzone.com/articles/choosing-the-right-database-for-your-applications)
+- [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
