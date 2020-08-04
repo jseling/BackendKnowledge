@@ -264,6 +264,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Usando cmake para compilar c/c++](https://medium.com/aprendacpp/usando-cmake-para-compilar-c-c-abf52c7dcbc8)
 
 ## Rust
+- :star:[Go vs Rust: Writing a CLI tool](https://cuchi.me/posts/go-vs-rust)
 - [Building high performance REST APIs with Rust and Rocket](https://github.com/sebasmagri/rocket-loadavg-api/blob/master/README.md)
 - [Rocket is a web framework for Rust](https://rocket.rs/v0.4/overview/)
 - [Rust Language Cheat Sheet](https://cheats.rs/)
