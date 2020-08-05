@@ -329,6 +329,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Transactions across REST microservices?](https://stackoverflow.com/questions/30213456/transactions-across-rest-microservices)
 - [Microservices and Distributed Transactions: LIXA and XTA](https://dzone.com/articles/microservices-and-distributed-transactions)
 - [Distributed Transactions and Microservices Still Don't Mix](https://dzone.com/articles/distributed-transactions-and-microservices-still-d)
+- [Game of Microservices](https://dzone.com/articles/game-of-microservices)
 
 ## SSE - Server Sent Events
 - [Server-Sent Events (SSE): A conceptual deep dive](https://www.ably.io/concepts/server-sent-events)
