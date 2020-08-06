@@ -453,6 +453,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Choosing the Right Database for Your Applications](https://dzone.com/articles/choosing-the-right-database-for-your-applications)
 - [Some SQL Tricks of an Application DBA](https://hakibenita.com/sql-tricks-application-dba)
 - [12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)
+- [SQL Style Guide](https://www.sqlstyle.guide/)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
