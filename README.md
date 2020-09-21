@@ -456,6 +456,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [12 Common Mistakes and Missed Optimization Opportunities in SQL](https://hakibenita.com/sql-dos-and-donts)
 - [SQL Style Guide](https://www.sqlstyle.guide/)
 - [Old, Good Database Design](https://relinx.io/2020/09/14/old-good-database-design/)
+- [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
