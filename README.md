@@ -152,6 +152,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://www.quora.com/What-is-the-best-language-framework-for-developing-a-REST-API-Im-currently-using-PHP-with-MongoDB-I-tried-CodeIgniter-but-I-found-it-poor-when-it-comes-to-creating-a-REST-API-so-now-Im-not-using-any-framework
 - https://www.theserverside.com/feature/The-right-language-for-microservice-orchestration-and-development
 - https://www.programmableweb.com/news/what-programming-language-most-popular-apis/2013/06/03
+- [Microservices Deserve Modern Programming Platforms: Java May Not be the Best Option](https://hackernoon.com/microservices-deserve-modern-programming-platforms-java-may-not-be-the-best-option-1v5z3tai)
 
 ## .NET & C#
 - [Free Learning Courses Microsoft](https://developer.microsoft.com/pt-br/collective/learning/courses)
