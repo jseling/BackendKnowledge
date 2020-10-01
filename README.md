@@ -435,6 +435,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [6 not so obvious things about Elasticsearch](https://blog.softwaremill.com/6-not-so-obvious-things-about-elasticsearch-422491494aa4)
 - [Tuning Fluentd: Retries — Avoiding Duplicate Documents in Elasticsearch](https://medium.com/redbox-techblog/tuning-fluentd-retries-avoiding-duplicate-documents-in-elasticsearch-e7cb9630a453)
 - [Discovering API Logs in Kibana](https://dzone.com/articles/discovering-api-logs-in-kibana)
+- [ElasticSearch query builder](https://solovyov.net/blog/2020/elasticsearch-query-builder/)
 
 ## Databases
 - [SQLite in 2018: A state of the art SQL dialect](https://modern-sql.com/blog/2019-01/sqlite-in-2018)
