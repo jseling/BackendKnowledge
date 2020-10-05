@@ -78,6 +78,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Learning the hard way: Microservices](https://itnext.io/microservices-c8b5dbdd58b8)
 - [How to communicate with Service Workers](https://felixgerschau.com/2020/02/22/communicate-with-service-workers.html)
 - [DISCUSION, POST: Building Domain Driven Microservices](https://news.ycombinator.com/item?id=23755841)
+- [Is your microservice a distributed monolith?](https://www.gremlin.com/blog/is-your-microservice-a-distributed-monolith/)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
