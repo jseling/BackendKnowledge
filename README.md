@@ -203,6 +203,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josefottosson.se/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
 - [A Proposal for IDisposable and Static Analysis: DisposeUnused Attribute](https://www.infoq.com/news/2019/10/IDisposable-Static-Analysis/)
 - [Práticas recomendadas de desempenho de ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
+- [ElasticSearch With .NET Core](https://dzone.com/articles/elasticsearch-with-net-core)
 
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
