@@ -156,7 +156,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Microservices Deserve Modern Programming Platforms: Java May Not be the Best Option](https://hackernoon.com/microservices-deserve-modern-programming-platforms-java-may-not-be-the-best-option-1v5z3tai)
 
 ## .NET & C#
-- :STAR:[Code with Shadman: Easy-to-understand tutorials on the .NET stack with C# language.](https://codewithshadman.com/)
+- :star:[Code with Shadman: Easy-to-understand tutorials on the .NET stack with C# language.](https://codewithshadman.com/)
 - [Free Learning Courses Microsoft](https://developer.microsoft.com/pt-br/collective/learning/courses)
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
 - [Criando um microsserviço de CRUD simples controlado por dados](https://docs.microsoft.com/pt-br/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice)
