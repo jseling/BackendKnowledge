@@ -267,6 +267,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How to Write Fast Services in C++](https://mahdytech.com/2018/12/23/fast-services-cpp/)
 - [C++ Is Faster and Safer Than Rust: Benchmarked by Yandex](https://www.viva64.com/en/b/0733/)
 - [Usando cmake para compilar c/c++](https://medium.com/aprendacpp/usando-cmake-para-compilar-c-c-abf52c7dcbc8)
+- [Modern C++ Features](https://blog.yuvv.xyz/modern-cpp-features)
 
 ## Rust
 - :star:[Go vs Rust: Writing a CLI tool](https://cuchi.me/posts/go-vs-rust)
