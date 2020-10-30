@@ -338,6 +338,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Distributed Transactions and Microservices Still Don't Mix](https://dzone.com/articles/distributed-transactions-and-microservices-still-d)
 - [Game of Microservices](https://dzone.com/articles/game-of-microservices)
 - [Full ACID and transactions on your Micro Services](https://dzone.com/articles/full-acid-and-transactions-on-your-micro-services)
+- [3 CQRS Architectures that Every Software Architect Should Know](https://danielrusnok.medium.com/3-cqrs-architectures-that-every-software-architect-should-know-a7f69aae8b6c)
 
 ## SSE - Server Sent Events
 - [Server-Sent Events (SSE): A conceptual deep dive](https://www.ably.io/concepts/server-sent-events)
