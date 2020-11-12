@@ -468,6 +468,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Old, Good Database Design](https://relinx.io/2020/09/14/old-good-database-design/)
 - [Simple Anomaly Detection Using Plain SQL](https://hakibenita.com/sql-anomaly-detection)
 - [Introduction to Recursive CTE](https://hackernoon.com/introduction-to-recursive-cte-n31f3wok)
+- [SQLServerTutorial.Net website](https://www.sqlservertutorial.net/)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
