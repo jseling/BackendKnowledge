@@ -319,6 +319,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [The Docker Quickstart Guide for Developers](https://ao.gl/the-docker-quickstart-guide-for-developers/)
 - [Docker Exec - How to Run a Command Inside a Docker Image or Container](https://www.freecodecamp.org/news/docker-exec-how-to-run-a-command-inside-a-docker-image-or-container/)
 - [Simple way to Docker on Windows 10 home with WSL 2](https://hinty.io/ivictbor/simple-way-to-docker-on-windows-10-home-with-wsl-2/)
+- [Docker and Containerization](https://medium.com/pilar-2020/docker-and-containerization-7db97e97af93)
 
 ## Kubernetes
 - [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
