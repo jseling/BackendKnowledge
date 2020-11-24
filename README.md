@@ -3,7 +3,6 @@
 Se você não consegue construir um monolito bem estruturado, por que acha que microserviços são a solução? - Simon Brown
 
 
-
 ## Blogs & sites sources
 - [katacoda: Learn new technologies using real environments
 right in your browser](https://www.katacoda.com/)
@@ -80,6 +79,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [DISCUSION, POST: Building Domain Driven Microservices](https://news.ycombinator.com/item?id=23755841)
 - [Is your microservice a distributed monolith?](https://www.gremlin.com/blog/is-your-microservice-a-distributed-monolith/)
 - [Microservices — “Microservices” was a good idea taken too far and applied too bluntly.](https://vlfig.me/posts/microservices)
+- [The macro problem with microservices](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
@@ -369,6 +369,8 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 
 ## Web Security
 - [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
+- [Someone attacked our company](https://usefathom.com/blog/ddos-attack)
+
 
 ## Autentication and Authorization
 - [(JWT) JSON Web Token](https://medium.com/@programadriano/json-web-token-jwt-c469834849a8)
@@ -429,6 +431,8 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 
 ## Load test
 - [A Practical Guide to Load Testing](https://www.freecodecamp.org/news/practical-guide-to-load-testing/)
+- [What happened to our infrastructure when a customer got over 10 million page views in a few hours?](https://usefathom.com/blog/viral)
+
 
 ## ElasticSearh
 - [Introdução ao Elasticsearch](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-elasticsearch-4d0f64da713d)
