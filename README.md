@@ -229,6 +229,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - https://imasters.com.br/banco-de-dados/utilizando-cache-com-redis-e-nodejs
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [Redis server-assisted client side caching](https://redis.io/topics/client-side-caching)
+- :star:[A Hitchhiker’s Guide to Caching Patterns](https://hazelcast.com/blog/a-hitchhikers-guide-to-caching-patterns/)
 
 ## Java Spring Boot
 - [Apresentação Andre Justi](https://pt.slideshare.net/AndrJusti/presentations)
