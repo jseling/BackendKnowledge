@@ -387,6 +387,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [What is JSON Web Token Authentication?](https://medium.com/@zenghoulim/what-is-json-web-token-authentication-a2962f8c5267)
 - [Learn Authentication The Hard Way: Part One](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
 - [Pros and Cons of JWTs](https://fusionauth.io/learn/expert-advice/tokens/pros-and-cons-of-jwts)
+- :star:[Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
