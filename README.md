@@ -478,6 +478,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Introduction to Recursive CTE](https://hackernoon.com/introduction-to-recursive-cte-n31f3wok)
 - [SQLServerTutorial.Net website](https://www.sqlservertutorial.net/)
 - [Decision Making: Relational or NoSQL](https://dzone.com/articles/decision-making-relational-or-nosql)
+- [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
