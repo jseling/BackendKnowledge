@@ -80,6 +80,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Is your microservice a distributed monolith?](https://www.gremlin.com/blog/is-your-microservice-a-distributed-monolith/)
 - [Microservices — “Microservices” was a good idea taken too far and applied too bluntly.](https://vlfig.me/posts/microservices)
 - [The macro problem with microservices](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/)
+- [Don't Build Distributed Monoliths!](https://dzone.com/articles/dont-build-distributed-monoliths)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
