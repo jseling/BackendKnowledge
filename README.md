@@ -129,6 +129,15 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
 - [RESTful Services: what they are, and what they aren't](https://www.brainstobytes.com/restful-services-what-they-are-and-what-they-are-not/)
 
+
+Disagree with collections:
+
+Plurals are too finicky. Especially for a global workforce.
+On another note, you should probably not have an endpoint for a single thing. Instead, create endpoints that only accept/return lists.
+Every endpoint undoubtedly ends up being hamstrung by 1-1 end points. So by implementing it as a many-many, you take care of that issue, and if you just need one thing, its just a single item in the list.
+At the very least start by returning more data and work to return less data later when you undoubtedly need it.
+- [Best practices for REST API design](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+
 ### Architecture
 - [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
 - [Best practices for cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
