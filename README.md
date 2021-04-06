@@ -490,6 +490,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [SQLServerTutorial.Net website](https://www.sqlservertutorial.net/)
 - [Decision Making: Relational or NoSQL](https://dzone.com/articles/decision-making-relational-or-nosql)
 - [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
+- [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
