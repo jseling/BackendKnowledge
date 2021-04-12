@@ -81,6 +81,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Microservices — “Microservices” was a good idea taken too far and applied too bluntly.](https://vlfig.me/posts/microservices)
 - [The macro problem with microservices](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/)
 - [Don't Build Distributed Monoliths!](https://dzone.com/articles/dont-build-distributed-monoliths)
+- [Microservices VS API: How They Differ From Each Other?](https://www.decipherzone.com/blog-detail/microservices-vs-api)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
