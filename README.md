@@ -306,6 +306,7 @@ At the very least start by returning more data and work to return less data late
 - [Rust explained using easy English](https://github.com/Dhghomon/easy_rust)
 - [Welcome to the Tour of Rust](https://tourofrust.com/)
 - [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
+- [Rust for Windows, and the windows crate](https://docs.microsoft.com/en-us/windows/dev-environment/rust/rust-for-windows)
 
 ## Docker
 - :star:[The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
@@ -492,6 +493,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Decision Making: Relational or NoSQL](https://dzone.com/articles/decision-making-relational-or-nosql)
 - [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
 - [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
+- [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://pawelurbanek.com/explain-analyze-indexes)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
