@@ -495,6 +495,11 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
 - [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://pawelurbanek.com/explain-analyze-indexes)
 
+### SQLite
+- [SQLite the only database you will ever need in most cases(https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+- [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
+- [Performance/Avoid SQLite In Your Next Firefox Feature](https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature)
+
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
 - [Did you know pagination with offset is very troublesome but easy to avoid?](https://use-the-index-luke.com/no-offset)
