@@ -108,6 +108,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Faster, cheaper, and better: A story of breaking a monolith](https://zepworks.com/posts/faster-better-cheaper-and-re-architecture/)
 - [Fault Tolerance Web Architecture for Our Cloud Solutions](https://habr.com/en/company/mailru/blog/489896/)
 - [To Microservices and Back Again - Why Segment Went Back to a Monolith](https://www.infoq.com/news/2020/04/microservices-back-again/)
+- [Disasters I've seen in a microservices world](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51)
 
 ### REST
 - [Tese doutorado de Roy Thomas Fielding](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
