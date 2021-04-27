@@ -82,6 +82,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [The macro problem with microservices](https://stackoverflow.blog/2020/11/23/the-macro-problem-with-microservices/)
 - [Don't Build Distributed Monoliths!](https://dzone.com/articles/dont-build-distributed-monoliths)
 - [Microservices VS API: How They Differ From Each Other?](https://www.decipherzone.com/blog-detail/microservices-vs-api)
+- [How to create a microservice](https://medium.com/nerd-for-tech/how-to-create-a-microservice-c7bfc6325038)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
@@ -382,6 +383,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Event Sourcing is Hard Or Event sourcing is not the same as event driven](https://en.reddit.com/r/programming/comments/amvde6/dont_let_the_internet_dupe_you_event_sourcing_is/)
 - [MESSAGING PATTERNS TO KNOW IN MICROSERVICES – PART I](https://www.schibsted.pl/blog/back-end/messaging-patterns-microservices-part-1/)
 - [Riot messaging service](https://engineering.riotgames.com/news/riot-messaging-service)
+- [RabbitMQ in .NET Core](https://medium.com/nerd-for-tech/rabbitmq-in-net-core-4c611eb4e87e)
 
 ## Web Security
 - [HTTP Security Headers - A Complete Guide](https://nullsweep.com/http-security-headers-a-complete-guide/)
