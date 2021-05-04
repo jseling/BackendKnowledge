@@ -219,6 +219,8 @@ At the very least start by returning more data and work to return less data late
 - [A Proposal for IDisposable and Static Analysis: DisposeUnused Attribute](https://www.infoq.com/news/2019/10/IDisposable-Static-Analysis/)
 - [Práticas recomendadas de desempenho de ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
 - [ElasticSearch With .NET Core](https://dzone.com/articles/elasticsearch-with-net-core)
+- [Learn C# with Examples](https://www.tutlane.com/tutorial/csharp)
+- [LINQ Tutorial](https://www.tutlane.com/tutorial/linq)
 
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
@@ -236,6 +238,7 @@ At the very least start by returning more data and work to return less data late
 - [16 year old author: Get Started With Node: An Introduction To APIs, HTTP And ES6+ JavaScript](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/)
 - [How To Build Simple Node.js Rest APIs with Express, Sequelize & MySQL](https://christosploutarchou.com/how-to-build-simple-node-js-rest-api/)
 - [How to implement a Node.js CRUD API — (without Express)](https://medium.com/@gftf2011/this-tutorial-will-dive-in-the-node-js-b4c1d6f94fab)
+- [Learn Node.js with Examples](https://www.tutlane.com/tutorial/nodejs)
 
 ## Cache
 - [Consistency between Redis Cache and SQL Database](https://www.pixelstech.net/article/1562504974-Consistency-between-Redis-Cache-and-SQL-Database)
@@ -497,11 +500,13 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
 - [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
 - [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://pawelurbanek.com/explain-analyze-indexes)
+- [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server)
 
 ### SQLite
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 - [Performance/Avoid SQLite In Your Next Firefox Feature](https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature)
+- [SQLite Tutorial](https://www.tutlane.com/tutorial/sqlite)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
