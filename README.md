@@ -83,6 +83,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Don't Build Distributed Monoliths!](https://dzone.com/articles/dont-build-distributed-monoliths)
 - [Microservices VS API: How They Differ From Each Other?](https://www.decipherzone.com/blog-detail/microservices-vs-api)
 - [How to create a microservice](https://medium.com/nerd-for-tech/how-to-create-a-microservice-c7bfc6325038)
+- [API VS Web Services VS Microservices](https://www.decipherzone.com/blog-detail/api-vs-web-services-vs-microservices)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
