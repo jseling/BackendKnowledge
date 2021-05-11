@@ -338,6 +338,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Simple way to Docker on Windows 10 home with WSL 2](https://hinty.io/ivictbor/simple-way-to-docker-on-windows-10-home-with-wsl-2/)
 - [Docker and Containerization](https://medium.com/pilar-2020/docker-and-containerization-7db97e97af93)
 - [DOCKER IN 10 MINUTES](https://smalldata.tech/blog/2019/06/08/docker-in-10-minutes)
+- [Docker Image Tutorial](https://dzone.com/articles/docker-image-tutorial)
 
 ## Kubernetes
 - [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
