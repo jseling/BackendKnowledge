@@ -132,7 +132,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [RESTful API Design — Step By Step Guide](https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
 - [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
 - [RESTful Services: what they are, and what they aren't](https://www.brainstobytes.com/restful-services-what-they-are-and-what-they-are-not/)
-
+- [Should we rebrand REST?](https://kieranpotts.com/rebranding-rest/)
 
 Disagree with collections:
 
