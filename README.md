@@ -499,6 +499,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
 - [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
 - [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://pawelurbanek.com/explain-analyze-indexes)
+- [SQL Query Optimization: Understanding Key Principle](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/)
 
 ### SQLite
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
