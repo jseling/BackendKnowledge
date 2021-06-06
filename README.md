@@ -220,6 +220,7 @@ At the very least start by returning more data and work to return less data late
 - [A Proposal for IDisposable and Static Analysis: DisposeUnused Attribute](https://www.infoq.com/news/2019/10/IDisposable-Static-Analysis/)
 - [Práticas recomendadas de desempenho de ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
 - [ElasticSearch With .NET Core](https://dzone.com/articles/elasticsearch-with-net-core)
+- [string vs. String is not a style debate](https://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html)
 
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
