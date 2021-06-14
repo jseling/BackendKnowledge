@@ -275,6 +275,7 @@ At the very least start by returning more data and work to return less data late
 ## Clojure
 - [Why you should use Clojure for your next microservice](https://developer.atlassian.com/blog/2016/03/why-clojure/)
 - [Love Letter To Clojure (Part 1)](https://itrevolution.com/love-letter-to-clojure-part-1/)
+- [TETRIS IN CLOJURESCRIPT](https://shaunlebron.github.io/t3tr0s-slides/#0)
 
 ## C++
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
