@@ -161,6 +161,7 @@ At the very least start by returning more data and work to return less data late
 - [What is an API Gateway?](https://www.bearer.sh/blog/what-is-an-api-gateway)
 - [IDEMPOTENT CONSUMER PATTERN](https://pradeeploganathan.com/patterns/idempotent-consumer-pattern/)
 - [Repository Pattern C#](https://codewithshadman.com/repository-pattern-csharp/)
+- [Integration Patterns in Microservices World](https://dzone.com/articles/integration-patterns-in-microservices-world)
 
 ### Async
 - [Patterns for Asynchronous Operations with async](https://careersjs.com/magazine/async-patterns/)
