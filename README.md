@@ -505,6 +505,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
 - [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://pawelurbanek.com/explain-analyze-indexes)
 - [SQL Query Optimization: Understanding Key Principle](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/)
+- [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
 
 ### SQLite
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
