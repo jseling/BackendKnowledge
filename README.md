@@ -288,6 +288,7 @@ At the very least start by returning more data and work to return less data late
 - [C++ Is Faster and Safer Than Rust: Benchmarked by Yandex](https://www.viva64.com/en/b/0733/)
 - [Usando cmake para compilar c/c++](https://medium.com/aprendacpp/usando-cmake-para-compilar-c-c-abf52c7dcbc8)
 - [Modern C++ Features](https://blog.yuvv.xyz/modern-cpp-features)
+- [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
 
 ## Rust
 - :star:[Go vs Rust: Writing a CLI tool](https://cuchi.me/posts/go-vs-rust)
