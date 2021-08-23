@@ -223,6 +223,7 @@ At the very least start by returning more data and work to return less data late
 - [Práticas recomendadas de desempenho de ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
 - [ElasticSearch With .NET Core](https://dzone.com/articles/elasticsearch-with-net-core)
 - [string vs. String is not a style debate](https://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html)
+- [Uma nova feature do C# 9: tipos “Record”.](https://marcionizzola.medium.com/uma-nova-feature-do-c-9-tipos-record-7986c7532be6)
 
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
