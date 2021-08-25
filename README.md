@@ -413,6 +413,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Pros and Cons of JWTs](https://fusionauth.io/learn/expert-advice/tokens/pros-and-cons-of-jwts)
 - :star:[Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
 - [JWTs done right: Quebec's proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
