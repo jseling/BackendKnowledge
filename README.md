@@ -224,6 +224,7 @@ At the very least start by returning more data and work to return less data late
 - [ElasticSearch With .NET Core](https://dzone.com/articles/elasticsearch-with-net-core)
 - [string vs. String is not a style debate](https://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html)
 - [Uma nova feature do C# 9: tipos “Record”.](https://marcionizzola.medium.com/uma-nova-feature-do-c-9-tipos-record-7986c7532be6)
+- [Fasten your Data Layer with Dapper (A .NET Micro ORM)](https://hexquote.com/fasten-your-data-layer-with-dapper-a-net-micro-orm/)
 
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
@@ -290,6 +291,7 @@ At the very least start by returning more data and work to return less data late
 - [Usando cmake para compilar c/c++](https://medium.com/aprendacpp/usando-cmake-para-compilar-c-c-abf52c7dcbc8)
 - [Modern C++ Features](https://blog.yuvv.xyz/modern-cpp-features)
 - [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
+- [Where To Use C/C++ Languages and Why?](https://dzone.com/articles/where-to-use-cc-languages-and-why-1)
 
 ## Rust
 - :star:[Go vs Rust: Writing a CLI tool](https://cuchi.me/posts/go-vs-rust)
@@ -316,6 +318,10 @@ At the very least start by returning more data and work to return less data late
 - [Welcome to the Tour of Rust](https://tourofrust.com/)
 - [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
 - [Rust for Windows, and the windows crate](https://docs.microsoft.com/en-us/windows/dev-environment/rust/rust-for-windows)
+
+## AWS
+- [Introduction to AWS](https://hexquote.com/introduction-to-aws/)
+- [AWS Relational Database Service (RDS) – PostgreSQL in Cloud](https://hexquote.com/aws-relational-database-service-rds-postgresql-in-cloud/)
 
 ## Docker
 - :star:[The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
@@ -414,6 +420,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - :star:[Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
 - [JWTs done right: Quebec's proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
+- [Local Logins using ASP .NET Core and JWT](https://hexquote.com/local-logins-using-asp-net-core-and-jwt/)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
