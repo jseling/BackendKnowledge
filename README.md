@@ -85,6 +85,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [How to create a microservice](https://medium.com/nerd-for-tech/how-to-create-a-microservice-c7bfc6325038)
 - [API VS Web Services VS Microservices](https://www.decipherzone.com/blog-detail/api-vs-web-services-vs-microservices)
 - [From SOA, to GraphQL, to Macroservices](https://dzone.com/articles/from-soa-to-graphql-to-macroservices)
+- [Domain Partitions: How To Find a Healthy Balance Between Microservices and Monoliths](https://betterprogramming.pub/domain-partitions-how-to-find-a-healthy-balance-between-microservices-and-monoliths-2cd74206559)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
