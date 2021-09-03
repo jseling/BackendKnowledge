@@ -422,6 +422,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [JWTs done right: Quebec's proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 - [Local Logins using ASP .NET Core and JWT](https://hexquote.com/local-logins-using-asp-net-core-and-jwt/)
+- [Password auth in Rust, from scratch - Attacks and best practices](https://www.lpalmieri.com/posts/password-authentication-in-rust/)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
