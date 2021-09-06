@@ -163,6 +163,7 @@ At the very least start by returning more data and work to return less data late
 - [IDEMPOTENT CONSUMER PATTERN](https://pradeeploganathan.com/patterns/idempotent-consumer-pattern/)
 - [Repository Pattern C#](https://codewithshadman.com/repository-pattern-csharp/)
 - [Integration Patterns in Microservices World](https://dzone.com/articles/integration-patterns-in-microservices-world)
+- [Web API Design Anti-patterns (or how to give consumers a headache)](https://bytedev.medium.com/web-api-design-anti-patterns-or-how-to-give-consumers-a-headache-effa0d1ff719)
 
 ### Async
 - [Patterns for Asynchronous Operations with async](https://careersjs.com/magazine/async-patterns/)
