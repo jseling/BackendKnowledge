@@ -176,6 +176,8 @@ At the very least start by returning more data and work to return less data late
 - [Microservices Deserve Modern Programming Platforms: Java May Not be the Best Option](https://hackernoon.com/microservices-deserve-modern-programming-platforms-java-may-not-be-the-best-option-1v5z3tai)
 
 ## .NET & C#
+- :star:[Learn C# with Examples](https://www.tutlane.com/tutorial/csharp)
+- [LINQ Tutorial](https://www.tutlane.com/tutorial/linq)
 - :star:[Code with Shadman: Easy-to-understand tutorials on the .NET stack with C# language.](https://codewithshadman.com/)
 - [Free Learning Courses Microsoft](https://developer.microsoft.com/pt-br/collective/learning/courses)
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
@@ -229,6 +231,7 @@ At the very least start by returning more data and work to return less data late
 - [Uma nova feature do C# 9: tipos “Record”.](https://marcionizzola.medium.com/uma-nova-feature-do-c-9-tipos-record-7986c7532be6)
 - [Fasten your Data Layer with Dapper (A .NET Micro ORM)](https://hexquote.com/fasten-your-data-layer-with-dapper-a-net-micro-orm/)
 
+
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
 - :clapper:[Curso: Criando APIs com NodeJs](https://www.youtube.com/watch?v=wDWdqlYxfcw&list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn)
@@ -245,6 +248,7 @@ At the very least start by returning more data and work to return less data late
 - [16 year old author: Get Started With Node: An Introduction To APIs, HTTP And ES6+ JavaScript](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/)
 - [How To Build Simple Node.js Rest APIs with Express, Sequelize & MySQL](https://christosploutarchou.com/how-to-build-simple-node-js-rest-api/)
 - [How to implement a Node.js CRUD API — (without Express)](https://medium.com/@gftf2011/this-tutorial-will-dive-in-the-node-js-b4c1d6f94fab)
+- [Learn Node.js with Examples](https://www.tutlane.com/tutorial/nodejs)
 
 ## Cache
 - [Consistency between Redis Cache and SQL Database](https://www.pixelstech.net/article/1562504974-Consistency-between-Redis-Cache-and-SQL-Database)
@@ -492,6 +496,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [ElasticSearch query builder](https://solovyov.net/blog/2020/elasticsearch-query-builder/)
 
 ## Databases
+- [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server)
 - [SQLite in 2018: A state of the art SQL dialect](https://modern-sql.com/blog/2019-01/sqlite-in-2018)
 - [Life of a SQL query](https://numeracy.co/blog/life-of-a-sql-query)
 - [SQL - Apresentando Common Table Expression (CTE)](http://www.macoratti.net/13/05/sql_cte1.htm)
@@ -521,10 +526,12 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [SQL Query Optimization: Understanding Key Principle](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/)
 - [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
 
+
 ### SQLite
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 - [Performance/Avoid SQLite In Your Next Firefox Feature](https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature)
+- [SQLite Tutorial](https://www.tutlane.com/tutorial/sqlite)
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
