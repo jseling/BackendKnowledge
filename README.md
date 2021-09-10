@@ -83,6 +83,10 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [Don't Build Distributed Monoliths!](https://dzone.com/articles/dont-build-distributed-monoliths)
 - [Microservices VS API: How They Differ From Each Other?](https://www.decipherzone.com/blog-detail/microservices-vs-api)
 - [How to create a microservice](https://medium.com/nerd-for-tech/how-to-create-a-microservice-c7bfc6325038)
+- [API VS Web Services VS Microservices](https://www.decipherzone.com/blog-detail/api-vs-web-services-vs-microservices)
+- [From SOA, to GraphQL, to Macroservices](https://dzone.com/articles/from-soa-to-graphql-to-macroservices)
+- [Domain Partitions: How To Find a Healthy Balance Between Microservices and Monoliths](https://betterprogramming.pub/domain-partitions-how-to-find-a-healthy-balance-between-microservices-and-monoliths-2cd74206559)
+- [What Is a Microservices Architecture?](https://manningbooks.medium.com/what-is-a-microservices-architecture-4211f0d54ee4)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
@@ -131,7 +135,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [RESTful API Design — Step By Step Guide](https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf)
 - [Roy Fielding's Misappropriated REST Dissertation](https://twobithistory.org/2020/06/28/rest.html)
 - [RESTful Services: what they are, and what they aren't](https://www.brainstobytes.com/restful-services-what-they-are-and-what-they-are-not/)
-
+- [Should we rebrand REST?](https://kieranpotts.com/rebranding-rest/)
 
 Disagree with collections:
 
@@ -159,6 +163,8 @@ At the very least start by returning more data and work to return less data late
 - [What is an API Gateway?](https://www.bearer.sh/blog/what-is-an-api-gateway)
 - [IDEMPOTENT CONSUMER PATTERN](https://pradeeploganathan.com/patterns/idempotent-consumer-pattern/)
 - [Repository Pattern C#](https://codewithshadman.com/repository-pattern-csharp/)
+- [Integration Patterns in Microservices World](https://dzone.com/articles/integration-patterns-in-microservices-world)
+- [Web API Design Anti-patterns (or how to give consumers a headache)](https://bytedev.medium.com/web-api-design-anti-patterns-or-how-to-give-consumers-a-headache-effa0d1ff719)
 
 ### Async
 - [Patterns for Asynchronous Operations with async](https://careersjs.com/magazine/async-patterns/)
@@ -170,6 +176,8 @@ At the very least start by returning more data and work to return less data late
 - [Microservices Deserve Modern Programming Platforms: Java May Not be the Best Option](https://hackernoon.com/microservices-deserve-modern-programming-platforms-java-may-not-be-the-best-option-1v5z3tai)
 
 ## .NET & C#
+- :star:[Learn C# with Examples](https://www.tutlane.com/tutorial/csharp)
+- [LINQ Tutorial](https://www.tutlane.com/tutorial/linq)
 - :star:[Code with Shadman: Easy-to-understand tutorials on the .NET stack with C# language.](https://codewithshadman.com/)
 - [Free Learning Courses Microsoft](https://developer.microsoft.com/pt-br/collective/learning/courses)
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
@@ -219,8 +227,10 @@ At the very least start by returning more data and work to return less data late
 - [A Proposal for IDisposable and Static Analysis: DisposeUnused Attribute](https://www.infoq.com/news/2019/10/IDisposable-Static-Analysis/)
 - [Práticas recomendadas de desempenho de ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/performance/performance-best-practices?view=aspnetcore-5.0)
 - [ElasticSearch With .NET Core](https://dzone.com/articles/elasticsearch-with-net-core)
-- [Learn C# with Examples](https://www.tutlane.com/tutorial/csharp)
-- [LINQ Tutorial](https://www.tutlane.com/tutorial/linq)
+- [string vs. String is not a style debate](https://blog.paranoidcoding.com/2019/04/08/string-vs-String-is-not-about-style.html)
+- [Uma nova feature do C# 9: tipos “Record”.](https://marcionizzola.medium.com/uma-nova-feature-do-c-9-tipos-record-7986c7532be6)
+- [Fasten your Data Layer with Dapper (A .NET Micro ORM)](https://hexquote.com/fasten-your-data-layer-with-dapper-a-net-micro-orm/)
+
 
 ## Node.js
 - :clapper:[Curso Webservice RESTful com Node.js, Restify e MySQL](https://www.youtube.com/watch?v=MAcCWy8T-1Q&list=PLFJmwzuHdBRTBbkyH0gATtDhj6ikOIkMy)
@@ -276,6 +286,7 @@ At the very least start by returning more data and work to return less data late
 ## Clojure
 - [Why you should use Clojure for your next microservice](https://developer.atlassian.com/blog/2016/03/why-clojure/)
 - [Love Letter To Clojure (Part 1)](https://itrevolution.com/love-letter-to-clojure-part-1/)
+- [TETRIS IN CLOJURESCRIPT](https://shaunlebron.github.io/t3tr0s-slides/#0)
 
 ## C++
 - [Modern C++ micro-service implementation + REST API](https://medium.com/audelabs/modern-c-micro-service-implementation-rest-api-b499ffeaf898)
@@ -286,6 +297,8 @@ At the very least start by returning more data and work to return less data late
 - [C++ Is Faster and Safer Than Rust: Benchmarked by Yandex](https://www.viva64.com/en/b/0733/)
 - [Usando cmake para compilar c/c++](https://medium.com/aprendacpp/usando-cmake-para-compilar-c-c-abf52c7dcbc8)
 - [Modern C++ Features](https://blog.yuvv.xyz/modern-cpp-features)
+- [On C++ and Object Oriented Programming](https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php)
+- [Where To Use C/C++ Languages and Why?](https://dzone.com/articles/where-to-use-cc-languages-and-why-1)
 
 ## Rust
 - :star:[Go vs Rust: Writing a CLI tool](https://cuchi.me/posts/go-vs-rust)
@@ -312,6 +325,10 @@ At the very least start by returning more data and work to return less data late
 - [Welcome to the Tour of Rust](https://tourofrust.com/)
 - [Rust is a hard way to make a web API](https://macwright.com/2021/01/15/rust.html)
 - [Rust for Windows, and the windows crate](https://docs.microsoft.com/en-us/windows/dev-environment/rust/rust-for-windows)
+
+## AWS
+- [Introduction to AWS](https://hexquote.com/introduction-to-aws/)
+- [AWS Relational Database Service (RDS) – PostgreSQL in Cloud](https://hexquote.com/aws-relational-database-service-rds-postgresql-in-cloud/)
 
 ## Docker
 - :star:[The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
@@ -340,6 +357,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Simple way to Docker on Windows 10 home with WSL 2](https://hinty.io/ivictbor/simple-way-to-docker-on-windows-10-home-with-wsl-2/)
 - [Docker and Containerization](https://medium.com/pilar-2020/docker-and-containerization-7db97e97af93)
 - [DOCKER IN 10 MINUTES](https://smalldata.tech/blog/2019/06/08/docker-in-10-minutes)
+- [Docker Image Tutorial](https://dzone.com/articles/docker-image-tutorial)
 
 ## Kubernetes
 - [Running Kubernetes on Windows](https://blog.codenizer.nl/k8s-on-windows/)
@@ -407,6 +425,10 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Learn Authentication The Hard Way: Part One](https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/)
 - [Pros and Cons of JWTs](https://fusionauth.io/learn/expert-advice/tokens/pros-and-cons-of-jwts)
 - :star:[Web Authentication Methods Compared](https://testdriven.io/blog/web-authentication-methods/)
+- [JWTs done right: Quebec's proof of vaccination](https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/)
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
+- [Local Logins using ASP .NET Core and JWT](https://hexquote.com/local-logins-using-asp-net-core-and-jwt/)
+- [Password auth in Rust, from scratch - Attacks and best practices](https://www.lpalmieri.com/posts/password-authentication-in-rust/)
 
 ## GraphQL
 - [Introduction to GraphQL](https://graphql.org/learn/)
@@ -474,6 +496,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [ElasticSearch query builder](https://solovyov.net/blog/2020/elasticsearch-query-builder/)
 
 ## Databases
+- [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server)
 - [SQLite in 2018: A state of the art SQL dialect](https://modern-sql.com/blog/2019-01/sqlite-in-2018)
 - [Life of a SQL query](https://numeracy.co/blog/life-of-a-sql-query)
 - [SQL - Apresentando Common Table Expression (CTE)](http://www.macoratti.net/13/05/sql_cte1.htm)
@@ -500,7 +523,9 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Introduction to Window Functions in SQL](https://khashtamov.com/en/sql-window-functions/)
 - [Many faces of left join](https://minimalmodeling.substack.com/p/many-faces-of-left-join)
 - [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://pawelurbanek.com/explain-analyze-indexes)
-- [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server)
+- [SQL Query Optimization: Understanding Key Principle](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/)
+- [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
+
 
 ### SQLite
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
