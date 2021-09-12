@@ -178,6 +178,7 @@ At the very least start by returning more data and work to return less data late
 ## .NET & C#
 - :star:[Tutlane: Learn C# with Examples](https://www.tutlane.com/tutorial/csharp)
 - :star:[Tutlane: LINQ Tutorial](https://www.tutlane.com/tutorial/linq)
+- :star::clapper:[.NET Microservices – Full Course](https://www.youtube.com/watch?v=DgVjEo3OGBI)
 - :star:[Code with Shadman: Easy-to-understand tutorials on the .NET stack with C# language.](https://codewithshadman.com/)
 - [Free Learning Courses Microsoft](https://developer.microsoft.com/pt-br/collective/learning/courses)
 - [Apostila Caelum: C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/#null)
