@@ -527,7 +527,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [PostgreSQL EXPLAIN ANALYZE for Web Developers Part 1 - Indexes](https://pawelurbanek.com/explain-analyze-indexes)
 - [SQL Query Optimization: Understanding Key Principle](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/)
 - [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
-
+- [Relational VS Non Relational Databases](https://towardsdatascience.com/relational-vs-non-relational-databases-f2ac792482e3)
 
 ### SQLite
 - :star:[Tutlane: SQLite Tutorial](https://www.tutlane.com/tutorial/sqlite)
