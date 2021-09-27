@@ -471,6 +471,9 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 ## Apollo
 - [GraphQL Resolvers in Apollo](https://medium.com/@johnclarke_82232/graphql-resolvers-in-apollo-cf64d404376f)
 
+## Curl
+- [COMMON MISTAKES WHEN USING LIBCURL](https://daniel.haxx.se/blog/2021/09/27/common-mistakes-when-using-libcurl/)
+
 ## (Real Time) Monitoring & Analytics
 - [O que é Application Performance Management?](https://guilhermeteles.com.br/o-que-e-application-performance-management/)
 - [How to collect analytics and not kill performance](https://habr.com/en/post/489090/)
