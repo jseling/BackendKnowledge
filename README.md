@@ -499,6 +499,7 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [Tuning Fluentd: Retries — Avoiding Duplicate Documents in Elasticsearch](https://medium.com/redbox-techblog/tuning-fluentd-retries-avoiding-duplicate-documents-in-elasticsearch-e7cb9630a453)
 - [Discovering API Logs in Kibana](https://dzone.com/articles/discovering-api-logs-in-kibana)
 - [ElasticSearch query builder](https://solovyov.net/blog/2020/elasticsearch-query-builder/)
+- [I Don't Think ElasticSearch Is A Good Logging System](https://blog.sinkingpoint.com/posts/elasticsearch-logging/)
 
 ## Databases
 - :star:[Tutlane: SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server)
