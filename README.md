@@ -87,6 +87,7 @@ a definition of this new architectural term](https://martinfowler.com/articles/m
 - [From SOA, to GraphQL, to Macroservices](https://dzone.com/articles/from-soa-to-graphql-to-macroservices)
 - [Domain Partitions: How To Find a Healthy Balance Between Microservices and Monoliths](https://betterprogramming.pub/domain-partitions-how-to-find-a-healthy-balance-between-microservices-and-monoliths-2cd74206559)
 - [What Is a Microservices Architecture? From Microservices in .NET, 2nd Edition by Christian Horsdal Gammelgaard](https://manningbooks.medium.com/what-is-a-microservices-architecture-4211f0d54ee4)
+- [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
 
 ## Cases and Opinions
 - [List: When not to do Microservices?](https://docs.google.com/spreadsheets/d/1vjnjAII_8TZBv2XhFHra7kEQzQpOHSZpFIWDjynYYf0/edit#gid=0)
