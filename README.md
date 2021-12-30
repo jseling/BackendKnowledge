@@ -537,6 +537,13 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
 - [Relational VS Non Relational Databases](https://towardsdatascience.com/relational-vs-non-relational-databases-f2ac792482e3)
 
+### SARGable (Search ARGument ABLE)
+- [Sargable Wikipedia](https://en.wikipedia.org/wiki/Sargable)
+- [How to use sargable expressions in T-SQL queries; performance advantages and examples](https://www.sqlshack.com/how-to-use-sargable-expressions-in-t-sql-queries-performance-advantages-and-examples/)
+- [SQL Server: SARGability](https://www.sqlservercentral.com/blogs/sql-server-sargability)
+- [Você sabe a diferença entre uma consulta Sargable e non-Sargable?](https://imasters.com.br/banco-de-dados/voce-sabe-a-diferenca-entre-uma-consulta-sargable-e-non-sargable)
+- [Construindo códigos T-SQL eficientes (sargable)](https://portosql.wordpress.com/2018/10/04/construindo-codigos-t-sql-eficientes-sargability/)
+
 ### SQLite
 - :star:[Tutlane: SQLite Tutorial](https://www.tutlane.com/tutorial/sqlite)
 - [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
