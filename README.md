@@ -536,6 +536,8 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [SQL Query Optimization: Understanding Key Principle](https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/)
 - [The Database Ruins All Good Ideas](http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/)
 - [Relational VS Non Relational Databases](https://towardsdatascience.com/relational-vs-non-relational-databases-f2ac792482e3)
+- [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion)
+- [Hacker News: Soft Deletion Probably Isn't Worth It](https://news.ycombinator.com/item?id=32156009)
 
 ### SARGable (Search ARGument ABLE)
 - [Sargable Wikipedia](https://en.wikipedia.org/wiki/Sargable)
