@@ -286,6 +286,7 @@ At the very least start by returning more data and work to return less data late
 - [Learning Go — from zero to hero](https://medium.freecodecamp.org/learning-go-from-zero-to-hero-d2a3223b3d86)
 - [Go: A Comprehensive Introduction](https://maex.me/2019/03/go-a-comprehensive-introduction/)
 - [Pacman tutorial](https://github.com/danicat/pacgo)
+- [I Don’t Like Go’s Default HTTP Handlers](https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/)
 
 ## Clojure
 - [Why you should use Clojure for your next microservice](https://developer.atlassian.com/blog/2016/03/why-clojure/)
