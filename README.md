@@ -159,6 +159,7 @@ At the very least start by returning more data and work to return less data late
 - [Polilito/Polylith](https://polylith.gitbook.io/polylith/)
 - [API vs. Microservices: A Microservice Is More Than Just an API](https://dzone.com/articles/api-vs-microservices-a-microservice-is-more-than-j)
 - [5 Simple Rules for CRUD Operations](https://dzone.com/articles/5-simples-rules-for-crud-operations)
+- :star:[DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 
 ## Pattern
 - [API Gateway pattern](https://microservices.io/patterns/apigateway.html)
