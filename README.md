@@ -558,6 +558,8 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
 - [Did you know pagination with offset is very troublesome but easy to avoid?](https://use-the-index-luke.com/no-offset)
+- [The two types of pagination](https://typefully.com/DanHollick/the-two-types-of-pagination-l1jvYR57j7ov)
+- [Is offset pagination dead? Why cursor pagination is taking over](https://uxdesign.cc/why-facebook-says-cursor-pagination-is-the-greatest-d6b98d86b6c0)
 
 ## Machine Learning
 - [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
