@@ -554,6 +554,13 @@ Part 3: A Dozen Dandy Dockerfile Instructions](https://towardsdatascience.com/le
 - [SQLite is not a toy database](https://antonz.org/sqlite-is-not-a-toy-database/)
 - [Performance/Avoid SQLite In Your Next Firefox Feature](https://wiki.mozilla.org/Performance/Avoid_SQLite_In_Your_Next_Firefox_Feature)
 
+### ORM Hate
+- [Martin Fowler - ORM Hate](https://martinfowler.com/bliki/OrmHate.html)
+- [Uncle Bob - Twitter Morning bathrobe rant: ORMs](https://x.com/unclebobmartin/status/1917912012526702945)
+- [Uncle Bob - Twitter Morning bathrobe rant about SQL.](https://x.com/unclebobmartin/status/1917558113177108537)
+- [Uncle Bob - Twitter Ick sobre ORMs](https://x.com/unclebobmartin/status/1917421034548125885)
+- [Yegor - ORM Is an Offensive Anti-Pattern](https://www.yegor256.com/2014/12/01/orm-offensive-anti-pattern.html)
+
 
 ## Pagination
 - [Everything You Need to Know About API Pagination](https://nordicapis.com/everything-you-need-to-know-about-api-pagination/)
